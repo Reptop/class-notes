@@ -1,0 +1,4 @@
+Example of SMART goal:
+ Starting (Date), I will (objective) by (Action) and document it with (tools) by (Date), then reassess.
+
+

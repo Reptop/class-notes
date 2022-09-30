@@ -1,0 +1,171 @@
+Notes from 27 September 2022
+
+Global warming refers the increase in the rise of global average temperature near earth's surface
+
+Climate basics:
+    The world has been gettting warmer - the co2 parts per million on our atmopsphere is significantly higher than historic levels.
+ 
+    Another defintion: climate is the expected range of weather for someone living in a specific place
+    What is Climate?
+        Climate is determined by many factors that influence flows of energy through the climate system, including greenhouse gases.
+        Climate change is a change in the pattern of weather - and changes in oceans, land surgaces, and ice sheets, occuring over a large time scale.
+
+    Climate change:
+    Climate change is a significant and lasting change in the statistical distribution of weather patterns. 
+    (Climate = distribution of weather outcomes)
+
+    With climate change, we are changing the normal distribution, as the statistical distribution is more saturated in higher temperatures compared to 
+    previous data.
+
+    There is not just a shift in the mean, there is also a shift in variance; the distribution are getting smushed down, so more record hot weather is
+    very possible. Higher variance equates to greater unpredictabillity - less change for cold weather, but more record hot weather when the mean is shifted,
+    but extreme cold and hot weather is still possible because of this increased variance.
+
+    Essentially, this increased variance would lead to more extreme weather outcomes.
+
+    The normal distribution can also be applied to frequency of wildfires, droughts, etc. Temperature isnt the only unit applicable to this normal disribution
+
+Earths warming trend:
+    Average temp has risen by 1.53F in last 100 years
+
+    Projected to rise another 2F to 11.5F
+
+Effects of Warming:
+    Even small shifts in the mean and variance temperature can lead to a positive feedback loop, which in turn can lead to dangerous shifts in climate and weather
+
+    Examples:
+    - More floods, droughts, or intense rain
+    - Melting of the polar ice caps
+    - Rising see levels
+    - Reduce in albedo effect
+    - could be more...
+
+IPCC:
+    IPCC from the united nations created a model that uses rpc as a metric to detail the intesnity of climate change
+
+
+Climate views in the united states over time:
+    The amount of people that recognize climate change as an issue is rising; however, there are still people who are in disbelief.
+
+"We need to add incentives to become more climate friendly. In an unregulated market nothing alligns self interest with the broader effects of society"
+
+29 September 2022
+
+Current events:
+    52 billion dolloar proposal to protect NYC from storm surges
+
+Carbon is an unregulated market; we need policies to make carbon regulated
+
+What is economy:
+    A collection of technological, legal, and social arrangments through which individuals in society seek to incnrease their well-being
+
+What is economics:
+    The allocation of limited resources (money) to satisfy unlimited human wants
+        - The goal of studying economics is just trying to find out how we can do better.
+
+What is climate economics:
+    The application of the principles of economics to the study of how environmental and resources are managed.
+
+Big picture questions:
+    what is the right price to put on environmental damages that impact our climate?
+    What is the best approach to dealing with GHG pollution?
+
+Two systems: economy and the climate
+Economy                        climate
+ - Economic Agents          - Biosphere
+ - Institutions they form     - atmopsphere
+ - Linkages between agents    - Flora
+                              - Fauna
+                              - Oceans
+
+Climate change Mitigation:
+reducing the flow of heat-trapping grenhouse gases into the atmopsphere
+ This can be accomplished by:
+    - Reducing the use of fossil fuels
+    - Enhancing the capacity of carbon "sinks"
+
+Mitigation policy options (Reducing the flow of GHGs):
+    - Market based instruments (M) - Carbon taxes, Subsidies, Cap and trade - can influence innovation in climate friendly instruments (influence the economy)
+    - Regulatory instruments (R) - Regulatory efforts, product bans, government investment (For example, a new fuel efficiency standard for cars has been placed) (Creating regulations)
+    - Volutary Agreement (V) - Made bewteen a government agency and one or more private parties to acheive environmental objectives or performance
+
+Reducing the use of fossil fuels: 
+    - By taxing the use of fossil fuels and using C02 emissions market (M)
+    - Improving energy efficiency (R, V)
+    - Choosing renewable energy over fossil fuels (M, R, V)
+    - Choosing public transport and sustainable mobillity (M, R, V)
+    - Promoting sustainable changes in industries (M,R,V)
+
+Enhancing Carbon Sinks:
+    - Limiting deforestation (M, R, V)
+    - Reducing soil erosion (M, R, V)
+    - Habitat restoration in both terrestrial and marine environments (M, R, V)
+    - Carbon capturing technology
+
+Other mitigation options:
+    - Climate engineering
+     - Deliberate and large-scale interventions in climate systems
+
+Climate change adaption:
+    Adpapting to actual or expected future climate by taking practical actions to manage risks
+    The goal of adaptation is to reduce our vulnerbillity to harmful effects of climate change
+
+Adaption and adaptation types:
+    When to adapt?
+        - reactive (Response to event of stimulus)
+            - Farmer changes crop choice after a drought destroyed crops last year
+        - Anticipitory (Actions are taken before impacts are actually observed)
+            - government agency providing funding to costal home owners to prevent their homes from being submerged
+    Who's doing the adapting?
+        - private(Only reacted by an individual and would only benefit that individual)
+            - A person in portland buys an AC in response to the rise in temperatures
+        - public/joint(actions that create benefits for many individuals at once)
+            - engineers nourishes beaches in florida to protect homes and infrastructure from hurricanes and rising sea levels (widening beaches as a protective buffer)
+
+Mitigation and adapting (Using both at the same time!!!!!):
+    - Coastal wetland store and sequester lots of Carbon (Mitigation)
+    - They defend coasts against sea level rise by buffering storm surges and floodwaters (Adaptation)
+
+5 major challenges:
+ - Large Scale & irreversibillity of damages (The large scale and irreversibillity of this issue could make change too late)
+                                             (Also when GHGs are realeased in the atmopsphere, they stay for a very long time)
+
+ - Global cooperation (Politcal battles between countries; we need global cooperation for the best policy solutions)
+
+ - intergeneration impacts (its not going away, they want to kick costs in the future, want benefits now)
+                           (How can we take into account of the people that aren't born - who are likely to experience severe effects of climate change)
+
+ - Uncertainty (projecting how climate will change and the economics with it, is still quite uncertain in many areas)
+
+ - Unequal distribution of impacts (Success in one place could be damaging to other areas)
+                                   (Poorer, Hotter countries are more vulnerable to climate change, and will experience more negative impacts)
+
+scale in terms of economics:
+    Economic damage from climate change could reduce global GDP(Gross domestic product) by 7.2% by 2100
+
+irreversibillity:
+    Co2 concentration is largely irreversibile for 1,000 years after emissions stop, locking in:
+        - Temperature increase
+        - Dry season rainfall reduction
+        - Sea level rise
+Global cooperation:
+    GHGs are uniformly-mixed pollutants (Regardless of where they came from, they mix uniformly into the atmopsphere causing problems for all)
+    Countries are doing this to each other in a sense
+
+    GLOBAL PROBLEMS REQUIRE COLLECTIVE ACTION
+
+    Because GHGs mix globally in the atmopsphere, damage isnt necessarily attributed to the country where the emissions came from. And expenditures to reduce
+    emissions may not benefit the country that is incurring (suffering) them. Therefore, countries may decide to invest in reducing poverty within their borders because 
+    spending funds on climate change that will make little impact.
+
+    Undeveloped countries are arguing that developed countries have reaped the benefits of co2 emissions are should be responsible in reducing it.
+
+    The threat of climate change isnt as immediate, dense, or recognizable as threats have historically alligned nations behind a common purpose
+
+intergenerational impacts:
+    we would rather see the benefits now and pay for it later
+
+    How can we enact policies today to balance the welfare effects of those alive today against the wellfare of future generations?
+    (How can we make sure the earth isnt damaged to the point where it will become unlivable for future generations?)
+
+
