@@ -168,4 +168,15 @@ intergenerational impacts:
     How can we enact policies today to balance the welfare effects of those alive today against the wellfare of future generations?
     (How can we make sure the earth isnt damaged to the point where it will become unlivable for future generations?)
 
-    yy
+Uncertainty:
+    calls for individuals to make decisions with potentially long term consequences, with potentially incomplete knowledge of our climate systems
+    We will continue to understand climate science and increases in greenhouse gases; however, there will still be many uncertainties.
+
+    Some main uncertainties:
+        - future emissions trajectories
+        - future changes in societal preferences
+        - modeling limitations
+        - measurement error and data
+        - feedback systems that could amplify or dampen disturbances in climate systems
+
+Uncertainty could work in both directions: it could prove to be less of a disaster than expected or much, much worse.
