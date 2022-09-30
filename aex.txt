@@ -180,3 +180,45 @@ Uncertainty:
         - feedback systems that could amplify or dampen disturbances in climate systems
 
 Uncertainty could work in both directions: it could prove to be less of a disaster than expected or much, much worse.
+
+Unequal distribution of impacts:
+    - The poorest countries are experiencing the worst of climate change, which is an issue they were barely responsible for.
+    - In a society where global natural resources are shared, people will look out for themselves instead of the common good, which disadvantages marginalized
+      groups of people.
+    - A study suggests that climate change are increased between-country inequality by about 25 percent.
+
+    The 5 challenges of climate change summarized:
+        The effects of climate change is likely to be costly, irreversibile, and unequally distrubted around the plant, and impact current and future
+        generations. Defining policy goals must deal with uncertainties in future outcomes and the global nature of the problem
+
+Why is climate change an economic problem???
+
+    (The economy heavily relies on the burning of fossil fuels)
+    Much of our economy is based on the combustion of fossil fuels, leading to Co2 emissions in our atmopsphere. This alters earth's climate via 
+    the greenhouse effects, which causes feedback loops that can further amplify rising temperatures and effect on humanity. 
+
+    The CORE ECONOMIC problem with greenhouse gas emissions is those who generate the emissions do not pay for the privilege to do so; those that are harmed
+    are not compensated. 
+
+    Since the industrial revolution, our atmopshere has been used as a free resource to absorb emissions from industrial activity.
+
+    Using the production of corn as an example:
+        When you buy corn, you are paying for the cost to produce it and farmers and retailers are compensated to provide to you - the consumer. However,
+        the carbon emissions released to produce that piece of corn is not taken into account of the price of that corn. Economists call these costs 
+        externalities, as they are external to the market transaction.
+
+        Externality: Byproduct of market transaction--which is not borne by a third party--and does not participate in that transaction.
+
+        Climate change is an externality and is likely to be the most complex externality that we face because it is global, affecting everyone on the planet,
+        the effects are long lived, and that no individual slow the effects of climate change on their own.
+
+        Climate change is an issue for two central economic reasons:
+            - its a global externality created by everyday people in their burning of fossil fuels
+            - Its a persistent problem that casts a long shadow into the future. The effects of emissions now are likely to affect humans and natural systems
+              for decades or even centuries.
+
+        Markets that FAIL cannot SOLVE THE PROBLEMS they generate
+
+    2 examples of how climate change will impact the economy in the near future:
+        - Local funds: Threat to local and state governments and their abillity to borrow funds for investment
+        - Transporation infrastructure: How coastal level and sea level rise may impact the pacific coast highway in beverly, beach oregon
