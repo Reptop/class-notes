@@ -154,13 +154,13 @@ irreversibillity:
         - Sea level rise
 Global cooperation:
     GHGs are uniformly-mixed pollutants (Regardless of where they came from, they mix uniformly into the atmopsphere causing problems for all)
-    Countries are doing this to each other in a sense
+    (Countries are doing this to each other in a sense)
 
     GLOBAL PROBLEMS REQUIRE COLLECTIVE ACTION
 
     Because GHGs mix globally in the atmopsphere, damage isnt necessarily attributed to the country where the emissions came from. And expenditures to reduce
     emissions may not benefit the country that is incurring (suffering) them. Therefore, countries may decide to invest in reducing poverty within their borders because 
-    spending funds on climate change that will make little impact.
+    spending funds on climate change will make little impact.
 
     Undeveloped countries are arguing that developed countries have reaped the benefits of co2 emissions are should be responsible in reducing it.
 
@@ -275,7 +275,107 @@ Demand:
 
     Law of Demand: As price falls, quantity demanded by the consumers rise (Implying a downward sloping demand curve)
 
-            
+    What can shift demand:
+        Using oranges as an example
+        1. Income 
+            - More income = increased likelyhood of buying more oranges
+
+        2. Tastes and preferences 
+            - New cool apple comes app, might just switch from oranges to apples
+
+        3. Price of other goods
+            - If the price of a subsititute good like apples goes up, I'll be more inclined to get oranges
+
+        4. Size of the market
+            - if more people moved to my town, stores my sell more oranges at a given price
+
+        5. Expecations:
+            - If I expect orange crops to get damaged in the future, I may buy more oranges at a given price 
+
+Supply:
+    A supply curve is how much a firm is willing to sell at a give price for the product
+        - Summarizes the relationship between price and quantity on the supply side
+
+    As prices rise, quantity firms are willing to to supply increases
+        - As the price of that good increases, there will be more incentive to produce that product for better profits
+            (Like in inflation, there will be higher demand of that product if its price rises, but its not sustainable) 
+
+            -------------------As prices increase, quantity supplied will increase-------------------
+
+                                THIS IMPLIES TO UN UPWARD SLOPING SUPPLY CURVE
+
+    Supply and demand create a market. Markets aggregregate the information about suppliers and buyers and signals this information 
+    through the equilibirum price that emerges.
+
+Market equilibirum is the intersection of the supply curve, and the demand curve. 
+    - Market equilibirum occurs at the price P* and the quantity Q*. This illustrates the concept of economic efficiency.
+      Q* is the level of production that maximizes the net benefits to society of this market.
+
+
+Economic Welfare:
+    Consumer Surplus (CS):
+        The price a consumer is willing to pay - minus the price they have to pay
+
+    Producer Surplus (PS):
+        the net benefit a producer recieves from participating in this market. 
+        PS is equal to the price it recieves - minus the cost of producing each unit
+        
+    Net benefits
+
+    CS + PS = Net benefits 
+
+How markets fail:
+
+    Necessary conditions for an efficent market:
+        - perfectly competitive market (Lots of buyers, many firms producing identicle products, lots of sellers, free entry and exit into and out of the market, firms are price takers)
+        - Perfect information (Buyers and sellers have all the info they need to make economic decisions: Produdct quality, cost, and market prices)
+        - Markets are complete (All relevant costs and benefits are borne by the people in that market)
+            - Some coffee production has discharged pollution river ecosystems that have been known to damage plant and animal life.
+                - if these evironmental costs are not reflected in the price, the coffee market is not complete.
+
+    Complete markets DO NOT EXIST for a number of environmental goods:
+        - Air
+        - Water
+        - ecosystem services
+        - ClIMATE
+
+    When any of these 3 conditions does not hold, we can say that this market is not allocating resources effeciently and therefore has failed
+    
+Property rights:
+    A bundle of entitlements defining the owner's rights, privileges, and limitations for the use of a specific product
+
+    What is a well defined property right?
+
+        1. Universal and comprehensive
+            - All resources are privately owned & all entitlements are specified.
+        2. Exclusivity:
+            - All benefits and cost as a result of owning and using a resource go to the owner either directly or indirectly.
+            (An individual should reap all the benefits but also bear all the costs associated with owning a property right)
+        3. Transferable:
+            - Resource owner can transfer rights to others
+        4. Secure and Enforcable
+            - No one can take away or use a resource in any away not intended by the owner.
+
+Negative Externality:
+    An externality results when the actions of one individual or firm have a direct, unintentional, and uncompensated effect on the well-being
+    of other individuals or profits of other firms.
+
+    Markets with externalities generate costs of 3 types:
+        Private costs:
+            Costs that show up on profit-loss statements and must be paid by firms (i.e production costs)
+            From a consumer perspective: Price you pay to buy something
+
+        External Costs:
+            Do not show up on a firm's balance sheet and are not reflected in the price paid by the consumer
+        
+        Social Costs:
+            Sum of private and external costs
+
+
+
+    
+
+
 
 
      
