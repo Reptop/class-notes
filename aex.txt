@@ -69,12 +69,16 @@ What is climate economics:
 Big picture questions:
     what is the right price to put on environmental damages that impact our climate?
     What is the best approach to dealing with GHG pollution?
+    How do we value ecosystem services harmed by climate change to better inform polcy decisions.
 
 Two systems: economy and the climate
 Economy                        climate
- - Economic Agents          - Biosphere
- - Institutions they form     - atmopsphere
- - Linkages between agents    - Flora
+ - Economic Agents
+    - individuals             - Biosphere
+ - Institutions they form
+    - Governments, Firms      - atmopsphere
+ - Linkages between agents
+    -Markets                  - Flora
                               - Fauna
                               - Oceans
 
@@ -222,3 +226,57 @@ Why is climate change an economic problem???
     2 examples of how climate change will impact the economy in the near future:
         - Local funds: Threat to local and state governments and their abillity to borrow funds for investment
         - Transporation infrastructure: How coastal level and sea level rise may impact the pacific coast highway in beverly, beach oregon
+
+
+Date: October 3rd 2022
+
+10 Princibles of economics
+
+    1. People face tradeoffs
+        - To get something, we usually have to give up something
+            - Ex. Leisure time vs. work
+
+    2. The cost of something is what you give up to get it
+        -  Oppurtunity cost is the best alternative forgone
+            - The Oppurtunity cost of college is the money you could've made if you used that time to work
+
+    3. Rational people think at the margin:
+        - Marginal Changes are small, incremental changes to an existing plan or action
+            - Ex. Deciding to produce one more pencil or not
+        - people will only take action if the marginal benefit exceeds the marginal cost
+
+    4. People respond to incentives
+        - Incentive is something that causes a person to act
+            - Ex Higher taxes on cigars to prevent smoking
+
+    5. Trade can make everyone better off
+        - Trade allows countries to specialize in their greater advantages and to enjoy a greater variety of goods and services
+
+    6. Markets are usually a good way to organize Economic Activity
+        -  Adam Smith made the observation that when households and firms interact in markets guided by the invisible hand, they will produce the most surpluses for the economy
+
+    7. Governments can sometimes improve economic outcomes
+        - For example, when a market fails to partition its resources effectively, governments can step in and intervene to promote greater equity.
+    
+    8. The standard of living depends on a countries production:
+        - Essentially, the more goods and services a country produces, the higher the standard of living. This is because as more people
+        consume a larger quantity of goods and services, their standard of living with increase.
+
+    9. Prices rise when the government prints to much money (inflation)
+        - As the government prints more money, there will be a higher demand for goods and services, causing prices to rise 
+    
+    10. Society faces a short run tradeoff between inflation and unemployment
+        - In the short run, when prices increase, suppliers will want to increase their production of goods and services. In order to achieve this, they need to hire more workers to produce those goods and services. More hiring means lower unemployment while there is still inflation. 
+        However, this is not the case in the long-run.
+
+
+Demand:
+    A Demand Curve is a line or curve that represents the maximum amounts of a good people are willing to purchase at a given price
+
+    Law of Demand: As price falls, quantity demanded by the consumers rise (Implying a downward sloping demand curve)
+
+            
+
+
+     
+        
