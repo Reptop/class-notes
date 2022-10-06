@@ -147,16 +147,22 @@ Mitigation and adapting (Using both at the same time!!!!!):
 scale in terms of economics:
     Economic damage from climate change could reduce global GDP(Gross domestic product) by 7.2% by 2100
 
+
+
+-------5 Major challenges expanded:------
+
 irreversibillity:
+    (When CO2 enters the atmopshere it stays there for a long time)
     Co2 concentration is largely irreversibile for 1,000 years after emissions stop, locking in:
         - Temperature increase
         - Dry season rainfall reduction
         - Sea level rise
+    - Economic damage could reduce global gdp by 7.2% by 2100
 Global cooperation:
     GHGs are uniformly-mixed pollutants (Regardless of where they came from, they mix uniformly into the atmopsphere causing problems for all)
     (Countries are doing this to each other in a sense)
 
-    GLOBAL PROBLEMS REQUIRE COLLECTIVE ACTION
+    GLOBAL PROBLEMS REQUIRE COLLECTIVE ACTION 
 
     Because GHGs mix globally in the atmopsphere, damage isnt necessarily attributed to the country where the emissions came from. And expenditures to reduce
     emissions may not benefit the country that is incurring (suffering) them. Therefore, countries may decide to invest in reducing poverty within their borders because 
@@ -270,29 +276,31 @@ Date: October 3rd 2022
         However, this is not the case in the long-run.
 
 
-Demand:
+Demand (Consumer side):
     A Demand Curve is a line or curve that represents the maximum amounts of a good people are willing to purchase at a given price
 
-    Law of Demand: As price falls, quantity demanded by the consumers rise (Implying a downward sloping demand curve)
+    -----Law of Demand: As price falls, quantity demanded by the consumers rise (Implying a downward sloping demand curve)-----
 
     What can shift demand:
         Using oranges as an example
         1. Income 
             - More income = increased likelyhood of buying more oranges
+            (More income would mean you be fine with buying large quantities of something more expensive)
 
         2. Tastes and preferences 
-            - New cool apple comes app, might just switch from oranges to apples
+            - New cool apple comes around, might just switch from oranges to apples
 
         3. Price of other goods
-            - If the price of a subsititute good like apples goes up, I'll be more inclined to get oranges
+            - If the price of a subsititute good like apples is a better value, I'll be more inclined to get oranges
 
         4. Size of the market
             - if more people moved to my town, stores my sell more oranges at a given price
+                (Look at housing prices, more people moving to oregon creates a larger market for housing)
 
         5. Expecations:
             - If I expect orange crops to get damaged in the future, I may buy more oranges at a given price 
 
-Supply:
+Supply (Producer side):
     A supply curve is how much a firm is willing to sell at a give price for the product
         - Summarizes the relationship between price and quantity on the supply side
 
@@ -309,18 +317,18 @@ Supply:
 
 Market equilibirum is the intersection of the supply curve, and the demand curve. 
     - Market equilibirum occurs at the price P* and the quantity Q*. This illustrates the concept of economic efficiency.
+
       Q* is the level of production that maximizes the net benefits to society of this market.
 
-
+    Need to maximize profits by matching the demand, aiming to not under or over-produce.
 Economic Welfare:
     Consumer Surplus (CS):
-        The price a consumer is willing to pay - minus the price they have to pay
+        The price a consumer is willing to pay minus the price they have to pay
 
     Producer Surplus (PS):
         the net benefit a producer recieves from participating in this market. 
         PS is equal to the price it recieves - minus the cost of producing each unit
-        
-    Net benefits
+    Net benefits:
 
     CS + PS = Net benefits 
 
@@ -340,7 +348,8 @@ How markets fail:
         - ClIMATE
 
     When any of these 3 conditions does not hold, we can say that this market is not allocating resources effeciently and therefore has failed
-    
+
+For section 3 to hold, we need well defined property rights 
 Property rights:
     A bundle of entitlements defining the owner's rights, privileges, and limitations for the use of a specific product
 
@@ -367,16 +376,21 @@ Negative Externality:
 
         External Costs:
             Do not show up on a firm's balance sheet and are not reflected in the price paid by the consumer
-        
+ 
         Social Costs:
             Sum of private and external costs
 
+Thursday October 6th:
 
 
-    
+The discount rate is the rate at which dollars deflate over time.
 
+Setting the rate:
 
+Discount rate of 0:
+    Present benefits are equally as beneficial in the future
 
+Low discount rate:
 
-     
-        
+High discount rate: 
+
