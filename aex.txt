@@ -263,14 +263,14 @@ Date: October 3rd 2022
 
     7. Governments can sometimes improve economic outcomes
         - For example, when a market fails to partition its resources effectively, governments can step in and intervene to promote greater equity.
-    
+
     8. The standard of living depends on a countries production:
         - Essentially, the more goods and services a country produces, the higher the standard of living. This is because as more people
         consume a larger quantity of goods and services, their standard of living with increase.
 
     9. Prices rise when the government prints to much money (inflation)
         - As the government prints more money, there will be a higher demand for goods and services, causing prices to rise 
-    
+
     10. Society faces a short run tradeoff between inflation and unemployment
         - In the short run, when prices increase, suppliers will want to increase their production of goods and services. In order to achieve this, they need to hire more workers to produce those goods and services. More hiring means lower unemployment while there is still inflation. 
         However, this is not the case in the long-run.
@@ -369,6 +369,11 @@ Negative Externality:
     An externality results when the actions of one individual or firm have a direct, unintentional, and uncompensated effect on the well-being
     of other individuals or profits of other firms.
 
+    Prices should reflect the full cost of resource use
+
+    Another definition: When person A's utility (happiness) or production are affected by variables chosen by person B without regard for the effects
+                        of person A. (doesnt have to be from a single source) an externality is just any external effect from economic activity.
+
     Markets with externalities generate costs of 3 types:
         Private costs:
             Costs that show up on profit-loss statements and must be paid by firms (i.e production costs)
@@ -376,21 +381,30 @@ Negative Externality:
 
         External Costs:
             Do not show up on a firm's balance sheet and are not reflected in the price paid by the consumer
- 
+
         Social Costs:
             Sum of private and external costs
 
 Thursday October 6th:
 
+Discount rate:
+    The discount rate is the rate at which dollars deflate over time.
 
-The discount rate is the rate at which dollars deflate over time.
+    Setting the rate:
+        Discount rate of 0:
+            Present benefits are equally as beneficial in the future
 
-Setting the rate:
+        Low discount rate:
 
-Discount rate of 0:
-    Present benefits are equally as beneficial in the future
+        High discount rate:
 
-Low discount rate:
+        Comparson of equillibria:
+            - Electricity output is too high
 
-High discount rate: 
+            - The price of polluting product is too low
+
+            - Too much pollution is produced
+
+            (We need to add policies that account for these low prices for pollution; force pollution price)
+
 
