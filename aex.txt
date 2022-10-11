@@ -326,7 +326,7 @@ Economic Welfare:
         The price a consumer is willing to pay minus the price they have to pay
 
     Producer Surplus (PS):
-        the net benefit a producer recieves from participating in this market. 
+        the net benefit a producer recieves from participating in this market.
         PS is equal to the price it recieves - minus the cost of producing each unit
     Net benefits:
 
@@ -349,7 +349,7 @@ How markets fail:
 
     When any of these 3 conditions does not hold, we can say that this market is not allocating resources effeciently and therefore has failed
 
-For section 3 to hold, we need well defined property rights 
+For section 3 to hold, we need well defined property rights
 Property rights:
     A bundle of entitlements defining the owner's rights, privileges, and limitations for the use of a specific product
 
@@ -387,8 +387,8 @@ Negative Externality:
 
 Thursday October 6th:
 
-Discount rate:
-    The discount rate is the rate at which dollars deflate over time.
+    Discount rate:
+        The discount rate is the rate at which dollars deflate over time.
 
     Setting the rate:
         Discount rate of 0:
@@ -407,4 +407,36 @@ Discount rate:
 
             (We need to add policies that account for these low prices for pollution; force pollution price)
 
+Tuesday October 11th:
 
+    Electrification of vehicles:
+        Is electrification the answer?
+
+        However...
+
+        broad agreement that EV cars will have a lower lifetime carbon footprint than traditional cigars
+
+        Total emissions per mile in EVs are lower
+
+        1. The batteries in Evs still charged by fossil fuels
+
+        2. EVs.....
+
+        Full benefits of EVs will be realized only after the electricity sources become renewable, and it might take
+        decades for that to happen.
+
+        The batteries to create and EVs are an intensive process and create 40% more emissions than a traditional car
+
+        Evs are not the key answer to climate change.
+
+        Evs should be accompanied by use of public transport and bicycles.
+
+
+    Measuring the economic impacts of climate change:
+
+        Need some kind of government incentive to enact policies.
+
+        Climate impacts:
+            Changes in climate affect the physical world
+
+            ........
