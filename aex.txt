@@ -442,7 +442,8 @@ Tuesday October 11th:
             ........
 
         Impacts to policy:
-            Most climate policies will impose costs on Society
+            Most climate policies will impose costs on Society (its expensive to manage this issue) 
+            (Market based policy would make current goods and services more expensive)
                 - develop new technology
                 - investments in energy
                 - investments in energy efficiency
@@ -455,7 +456,7 @@ Tuesday October 11th:
 
                  - On the other, we could do nothing and take a gamble on rapidly warming the planet (basically doing nothing, this will cost a lot in the future)
 
-                 Sensible policies will thus fall inbetween these two extremes: some balencing of costs and benefits
+                 ----Sensible policies will thus fall inbetween these two extremes: some balencing of costs and benefits----
 
             Estimating impacts:
 
@@ -463,39 +464,51 @@ Tuesday October 11th:
 
                 Combines uncertainties in emissions projections and climate models with potential range of reactons of human system
 
-            Market impacts in managed systems
+            Market impacts in managed systems:
 
                 - market impacts are likely "easiest" to approximate
 
                 - this is true for managed systems in developed Countries
 
-                - These managed systems are more resilient thn most - adaptation is easier...
+                - These managed systems are more resilient to climate change, gven the time to adapt. 
 
             Nonmarket impacts and unmanaged systems:
 
-                - most damaging impacts from climate change are likely to arise outside of conventional Markets
+                - most damaging impacts from climate change are likely to arise outside of conventional Markets, with clearly defined prices
 
                 - in unmanagable systems, the scale of the dangers  are likely beyond human capacity to solve
 
-            Climate change and not, dry summers mean big trouble for Oregon's trees
+            Climate change and hot, dry summers mean big trouble for Oregon's trees
 
-        Attribution..... :
+            Climate change will bring unbalanced economic damage across the US. Some states will benefit from climate change, while others will not.
+
+            Poorer counties are more prone to economic damage. This highlights the importance of adaptation and shows that richer communities are 
+            well-equipied to adapt to climate change, given that they have the means to adapt and experience lower losses. 
+
+        Attribution:
 
             In law, attribution is often associated with responsibility and blame linked to debates about liabillity and compensation
             (Making a link between damages and the person responsible)
 
             In science, attribution is viewed as a way to further scientific understanding of casual links between elements of the climate system and society
 
-            Attrivbution: climate v. weather:
+            Attribution: climate v. weather:
 
+            Two examples:
                 - Hot weather reduces farm yields
                 - small climatic warming may increase farm yields
-                - The difference is that farmers cannot adapt to extreme, unexpected weather while they can adapt to small climatic Changes
+
+                   - The difference is that farmers cannot adapt to extreme, unexpected weather while they can adapt to small climatic Changes
 
                 Attribution challenges:
-                    The science is progressing fast and has potential to increase understanding
+                     - The science is progressing fast and has potential to increase understanding oh how climate change influences economic activity
 
-                    Further research is needed to fully realize the cost and benefits....
+                     - Over time, some uncertainties will be reduced, while others remain.
+
+                     - We can work now to scientifically verify the damages and losses from certain events 
+                    
+
+                    - Currently, we cant say that climate change caused this, it is just one of the causes.
 
             Attribution of climate impacts must be carefully done; these Assessments must be made scientifically and serparte from the impact from day-to-day
-            weather...
+            weather events while also accounting for humans adaptive capacity.
