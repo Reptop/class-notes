@@ -483,7 +483,7 @@ Tuesday October 11th:
             Climate change will bring unbalanced economic damage across the US. Some states will benefit from climate change, while others will not.
 
             Poorer counties are more prone to economic damage. This highlights the importance of adaptation and shows that richer communities are 
-            well-equipied to adapt to climate change, given that they have the means to adapt and experience lower losses. 
+            well-equipied to adapt to climate change, given that they have the means to adapt and experience lower losses.
 
         Attribution:
 
@@ -505,10 +505,89 @@ Tuesday October 11th:
 
                      - Over time, some uncertainties will be reduced, while others remain.
 
-                     - We can work now to scientifically verify the damages and losses from certain events 
-                    
+                     - We can work now to scientifically verify the damages and losses from certain events
 
                     - Currently, we cant say that climate change caused this, it is just one of the causes.
 
             Attribution of climate impacts must be carefully done; these Assessments must be made scientifically and serparte from the impact from day-to-day
             weather events while also accounting for humans adaptive capacity.
+
+    Thursday Oct 13th:
+
+        Current events: global agreement to reduce aviation emissons
+
+       Counterfactual: what would happen if we didnt have climate change? (we could use this counterfactual to find causual links to climate change)
+
+        Valuation of climate impacts:
+
+            Market impacts: translate climate to physical changes in economic output then use market prices to estimate damages
+
+            Nonmarket impacts: difficulty to assess both the quantity of loss in environmental damage and the value that would be applied.
+                               Need significant research for both measures to apply....
+
+            Use Value Example: outdoor recreation:
+
+                Use value: the utility of consuming a good or services
+
+                Option value: The utullity placed on maintaining a resource to have option to enjoy it in the future
+                                (I want to use it, is there any way I can keep it like that so I can use it in the future)
+
+                Non-use value: the utillity that people assign to something even if they never have/will use it
+                                (e.g fish - it is food, tastes good, not everyone eats it but it has utility people assign - it is FOOD)
+                                (These are hard thing to pin down a dollar value for, but they exist)
+
+                Market impact example: A wildfire, driven by climate change occured
+
+                     - need to quantify the damage by looking at how much the lumber was worth
+
+                     - the lumber was this dollar per something 
+
+                        - quantify damage with how the lumber was worth to find market damage
+
+                What is missing from the above example:
+                    key assumption is that all value is use-related and captured by prices
+
+                    Habitat loss is what we're missing. The value of a cute owl losing its home is damaging too
+
+            Valuing impacts of climate change:
+
+                We have the apply values to a cute owl and ecosystem services. The policy discussions, we need to apply a price or else their price will be 0.
+                Our policy makers need to recognize the value of these things, even it its blasphemy to apply a price to human-wellbeing and wildlife.
+
+ 
+        Tipping points: When a system reaches a sharp change in its behavior that may lead to further instabillities in its behavior. 
+
+            (Points at which we'll cross some threshold and the changes from climate change will kick into a higher gear)
+
+            This causes increased uncertainty about potential impacts 
+
+            Features of tipping points:
+                Multiple outcomes or equilibria are possible
+                    (i.e both good and bad outcomes could occur)
+
+            Dangerous tipping points:
+                - Collapse of ice sheets in Antartica and Greenland
+
+                - Disruption of ocean circulation patterns
+
+                - positive feedback loops (white ice creates albedo effect. However, as ice melts, less albedo effect, and higher temps, then ice melts)
+
+                - Global impacts dueto rapid rise in sea levels
+                    - Global impacts due to rapid rise in sea levels
+
+                - the Greenland ice sheet has potential ro raise sea level 23 feet if it melts completely
+
+                - timing is difficult, making assessment of economic impacts problematic
+
+                - Ocean circulation
+                    - The gulf stream keeps nothern europe warm 
+
+                    - changes in temperature and precipition....
+
+                - Feedback loops
+                    - Ocean becomes saturated with carbon, leaving more Co2 in the atmopsphere
+                    - melting permafrost releases long-stored methane into the atmopsphere
+                    - melting sea ice leads to less albedo effect, causing ice to melt, and the cycle intensifies
+
+                (Bangladesh would be greatly affected if greenland ice sheet were to warm)
+
