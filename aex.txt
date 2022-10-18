@@ -475,6 +475,7 @@ Tuesday October 11th:
             Nonmarket impacts and unmanaged systems:
 
                 - most damaging impacts from climate change are likely to arise outside of conventional Markets, with clearly defined prices
+                        for example, flooding
 
                 - in unmanagable systems, the scale of the dangers  are likely beyond human capacity to solve
 
@@ -526,6 +527,8 @@ Tuesday October 11th:
                                Need significant research for both measures to apply....
 
             Use Value Example: outdoor recreation:
+                
+                3 Sources of Economic Value:
 
                 Use value: the utility of consuming a good or services
 
@@ -572,7 +575,7 @@ Tuesday October 11th:
 
                 - positive feedback loops (white ice creates albedo effect. However, as ice melts, less albedo effect, and higher temps, then ice melts)
 
-                - Global impacts dueto rapid rise in sea levels
+                - Global impacts due to rapid rise in sea levels
                     - Global impacts due to rapid rise in sea levels
 
                 - the Greenland ice sheet has potential ro raise sea level 23 feet if it melts completely
@@ -590,4 +593,118 @@ Tuesday October 11th:
                     - melting sea ice leads to less albedo effect, causing ice to melt, and the cycle intensifies
 
                 (Bangladesh would be greatly affected if greenland ice sheet were to warm)
+
+
+October 18, 2022
+
+   Kyoto protocol: 
+        - in 2005, Kyoto protocol entered in force
+        - US is one of the countries that refuse to ratify this protocol, along with Palenstine and South Sudan to name a few; Canada also withdrew. 
+        - First adopted in December 1997
+        - Currently, there are 192 parties to the kyoto protocol
+
+        Kyoto protocal impact distribution: 
+            - Impacts broadly distributed through both space and time
+
+            - Massive differences in impacts amongst countries 
+
+            - Economic sacrifices large in short term 
+
+        Kyoto: U.S. Costs and Benefits: 
+            Controversial Benefit-Cost analysis shows effect of benefits being realized far in the future
+
+        2015 Paris Accord:
+            Kyoto never really worked, emissions are continuing to go up; emissions are still rising.
+
+            195 countries agreeed to terms dealing with GHG emissions mitigation, adaptation and finace starting in the year 2020
+
+            (COVID made this plan fall behind)
+
+            this agreement's objective is to limit global temperature rise to well below 2 degrees celcius, and to strive for 1.5 degrees Celsius
+                - the catch:
+                    there is no legally binding emissions target
+                    - Data from NASA confirm that....
+            175 countries signed on April 22nd 2016 (Earth Day)
+
+            This was only the beginning, the countries' respective governments must first ratify this Agreement
+
+            15 countries that immediately signed this agreement were island nations, as they are highly vulnerable to the effects of climate changes
+            (Rising sea levels)
+
+                Of these 15 signers.....
+
+            - The agreement went into effect on Nov 4th 2016 once some EU member nations ratified it and passed the 55 countries representing 55% of 
+              global emissions
+
+            - on August 5, 2017, the Trump administiration delivered offical notice to withdaw the U.S. from Paris agreement
+
+                - As of Feburary 2021, We are now back in
+
+                    - As of right now, most countries ratified the paris agreement
+
+        American Clean Energy and Security act: 
+
+            - 17% Reduction from 2005 levels by 2020
+                - (passed in house in Jume 2009; Senate never considered to vote)
+                    (Obamacare occupied senate for yearsm leaving behind this act)
+
+        Clean Energy Jobs and American Power Act:
+            - Same as American Clean Energy but 20% instead of 15% reduction from 2005 by 2020
+             - in July 2010, it was taken of fthe table in the Sentate; opposed by republicans 
+ 
+        Obama's "Clean Power Plan": 
+            - Reduce Co2 emissions by 32% from 2005 levels by 2030
+
+            - climate & health benefits between 55 - 93 billion dollars by 2030
+
+            - Avoidance of 3,600 premature deaths, 90,000 asthma attacks...
+
+            - States given flexibillity to choose how to meet targets
+ 
+            - Clean energy incentive programs
+                - Wind and solar deployment incentives
+
+            - Supreme court jumped in and said, "hey, we gotta review the legality of this" (Stayed a regulation)
+
+                - Trump signed an executive order directing EPA to review the clean power plan 
+
+        Trumps "Affordable clean Energy Rule":
+            .....
+
+        Previous administiration: 
+            the trump administiration's EPA revered EPA > ....
+
+        Current administiration:
+            - Rejoined Paris agreement
+
+            - Pledged to cut U.S. GHG emissions by 50% by 2030 and have carbon free power systems by 2035
+
+            - ......
+
+        Inflation Reduction Act:
+            - The IRA was signed into law in August 2022
+
+            This contains some of the most aggressive actions the US has ever taken to combat climate change 
+
+            - OMB suggests the law could cut the social costs of climate change by up to 1.9 trillion by 2050
+
+               - Inflaction reduction act does about 2/3 of the remaining work to meet the emission goals by 2030 
+
+            Clean Energy Tax Credits:
+
+                Production tax credits:
+
+                Fuel Tax Credits:
+
+                Investment Tax Credits:
+
+                Clean vehicle tax credits:
+
+                Carbon Management:
+
+                Residential Energy efficiency:
+
+                Energy Innovation:
+
+                Community Investment: 
 
