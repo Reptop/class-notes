@@ -601,14 +601,11 @@ October 18, 2022
         - in 2005, Kyoto protocol entered in force
         - US is one of the countries that refuse to ratify this protocol, along with Palenstine and South Sudan to name a few; Canada also withdrew. 
         - First adopted in December 1997
-        - Currently, there are 192 parties to the kyoto protocol
+        - Currently, there are 192 parties to the kyoto protoco:w
 
-        Kyoto protocal impact distribution: 
-            - Impacts broadly distributed through both space and time
 
-            - Massive differences in impacts amongst countries 
 
-            - Economic sacrifices large in short term 
+            - Economic sacrifices large in short term
 
         Kyoto: U.S. Costs and Benefits: 
             Controversial Benefit-Cost analysis shows effect of benefits being realized far in the future
@@ -684,6 +681,8 @@ October 18, 2022
         Inflation Reduction Act:
             - The IRA was signed into law in August 2022
 
+            (This is the first actual meaningful legislation that was passed in this country, my goodness)
+
             This contains some of the most aggressive actions the US has ever taken to combat climate change 
 
             - OMB suggests the law could cut the social costs of climate change by up to 1.9 trillion by 2050
@@ -707,4 +706,11 @@ October 18, 2022
                 Energy Innovation:
 
                 Community Investment: 
+
+                production tax credits: 
+
+                ..... 
+                ..... 
+                ..... 
+                .....
 
