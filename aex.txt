@@ -597,14 +597,16 @@ Tuesday October 11th:
 
 October 18, 2022
 
-   Kyoto protocol: 
-        - in 2005, Kyoto protocol entered in force
-        - US is one of the countries that refuse to ratify this protocol, along with Palenstine and South Sudan to name a few; Canada also withdrew. 
+   Kyoto protocol:
+
+
+        in 1992, United nations Framework convention on climate change negotiated and ratified by the US
         - First adopted in December 1997
-        - Currently, there are 192 parties to the kyoto protoco:w
-
-
-
+        - kyoto protocol negotiated in 1997 but was rejected the US in 2001
+        - Despite being rejected, in 2005, Kyoto protocol entered in force
+        - US is one of the countries that refuse to ratify this protocol, along with Palenstine and South Sudan to name a few; Canada also withdrew.
+        - in 2009, world leaders negotiated the copenhagen accord 
+        - Currently, there are 192 parties to the kyoto protocol
             - Economic sacrifices large in short term
 
         Kyoto: U.S. Costs and Benefits: 
@@ -613,6 +615,8 @@ October 18, 2022
         2015 Paris Accord:
             Kyoto never really worked, emissions are continuing to go up; emissions are still rising.
 
+            Goal was to limit global temperature rise to well below 2 degrees celsius, and to strive for 1.5 degrees celsius
+
             195 countries agreeed to terms dealing with GHG emissions mitigation, adaptation and finace starting in the year 2020
 
             (COVID made this plan fall behind)
@@ -620,7 +624,8 @@ October 18, 2022
             this agreement's objective is to limit global temperature rise to well below 2 degrees celcius, and to strive for 1.5 degrees Celsius
                 - the catch:
                     there is no legally binding emissions target
-                    - Data from NASA confirm that....
+                    - Data from NASA confirm that Febuary 2016 was 1.35 celcius above the long term average.
+
             175 countries signed on April 22nd 2016 (Earth Day)
 
             This was only the beginning, the countries' respective governments must first ratify this Agreement
@@ -646,15 +651,16 @@ October 18, 2022
                     (Obamacare occupied senate for yearsm leaving behind this act)
 
         Clean Energy Jobs and American Power Act:
+            - Focus was to create cap and trade systems for greenhouse gas emmitions
             - Same as American Clean Energy but 20% instead of 15% reduction from 2005 by 2020
-             - in July 2010, it was taken of fthe table in the Sentate; opposed by republicans 
- 
+             - in July 2010, it was taken of fthe table in the Sentate; opposed by republicans
+
         Obama's "Clean Power Plan": 
             - Reduce Co2 emissions by 32% from 2005 levels by 2030
 
             - climate & health benefits between 55 - 93 billion dollars by 2030
 
-            - Avoidance of 3,600 premature deaths, 90,000 asthma attacks...
+            - Avoidance of 3,600 premature deaths, 90,000 asthma attacks in children, and 300,000 missed work and school days
 
             - States given flexibillity to choose how to meet targets
  
@@ -663,20 +669,23 @@ October 18, 2022
 
             - Supreme court jumped in and said, "hey, we gotta review the legality of this" (Stayed a regulation)
 
-                - Trump signed an executive order directing EPA to review the clean power plan 
+                - Trump signed an executive order directing EPA to review the clean power plan. EPA planning on ending the clean power plan  (October 2017)
+
+                in may 2019 EPA announced plans to change the way the EPA calculates health risks of air pollution, making it easier to roll by CPP.
 
         Trumps "Affordable clean Energy Rule":
-            .....
+            On jan 19, 2021 the DC circuit court vacated Trump's EPA repeal and replacment of the clean power plan
 
         Previous administiration: 
-            the trump administiration's EPA revered EPA > ....
+            the trump administiration's EPA reversed >100 Environmental rules. This will cause increases in GhG emissions and lead to thousands of deaths
+            each year from declining air quality.
 
         Current administiration:
-            - Rejoined Paris agreement
+            - Rejoined Paris agreement, commit to reducint GhG emissions 
 
             - Pledged to cut U.S. GHG emissions by 50% by 2030 and have carbon free power systems by 2035
 
-            - ......
+            - 
 
         Inflation Reduction Act:
             - The IRA was signed into law in August 2022
@@ -713,4 +722,144 @@ October 18, 2022
                 ..... 
                 ..... 
                 .....
+
+October 19 2022
+
+    Drilled: The Turn Podcast Notes:
+
+        - The change in political power became much more conservative
+
+        - Major cuts occurred on research projects in Exon. They wanted to dump research to not tank earnings (cut the tanker project)
+
+        - Exon layed off the dozens of scientists. They turned into a conservative oil company
+
+        - Demos and Repubs were still united at the time 
+
+        - Bush Sr. said perserving the environment must be done (didnt happen)
+
+        - By shutting down their experiments exon lost their place on the table (lost their power)
+
+        - exon waged an information war on climate change
+
+            - Companies wanted to portray targeting emissions as something that inhibits proress in the United states 
+
+                - Promotions of the products and the company supported climate change deniers, giving millions of dollars to other identities to hopefullly portray
+                    climate change as a hoax
+
+            - oil industry banded together with other industries that might also be impacted by regulation of carbon emissions, they all drafted campaigns to create propogana and target audiences with messages crafted perciesly for them 
+                create propogana and target audiences with messages crafted perciesly for them 
+        - goal was to portay global warming as a theory, not a fact
+
+        - These influence campaigns are effective, they are still occuring to this day
+
+
+
+October 20 2022
+
+    Current events: biden is investing many funds torwards climate Changes
+                    An estimating 1 billion crabs are missing (?????)
+
+
+    U.S Regional and State Climate Actions: 
+        Regional Greenhouse Gas initiative (RGGI):
+
+        Has been running since 2009
+            - First mandatory cap and trade in U.S. 
+                twelve states currently participat ein the initiative
+
+        This only applies to electricity generation 
+
+        New goal: 30% reduction by 2030
+
+        California's cap and trade program went into effect Jan 1st, 2013
+
+        Oregon's SB 2020 failed in 2019, 2020 
+
+            Gov. Brown instituted part of bill through executive order March 2020
+
+    Regional climate policty in the U.S 
+
+        Regional Greenhouse Gas initiative (RGGI):
+            Most recent auction results:
+                - 22.4 million offered permits for greenhouse gas emmitions
+                - sold all 22.4 million
+                - clearing price: 13.45
+                - raised 301.3 million; 5.61 billion to 2022-10-20
+                    Funds investments in energy efficiency, renewable energy, direct bill assistance and GHG abatement programs
+
+
+        California's cap and trade program:
+            - Auction are held for polluters to purchase permits, number of allowances declines with time 
+ 
+            - Offsets allowed for 8% of compliance 
+
+            - Participations limited to sources that emit at least 25k metric tons Co2/years
+
+            - Banking of permits allowed
+
+            - Regulated sources must provice allowances and/or offsets for 30% 
+
+            - For every metric ton went over emitted, the penalty is 4 permits 
+
+
+            (The benefit of cap and trade is that you get money, you can use this money to invest in other things you need)
+            Auction revenue is invested in: 
+                - Ev car subsidies 
+                - solar panel subsidies 
+                - habitat preservation & restoration 
+                - mass transit in cities
+
+                35% of revenue directed to environmentally disadvantaged low income communities
+
+    oregon cap and trade attempts:
+        - Failed in 2019
+
+        - Failed in 2020
+
+        Governers executive orders orignial plan (March 10, 2020)
+            - This order was issued to reduce GHG emissions in the state, using government agency rules to enforce the changes
+ 
+
+        What now for oregon?
+            - the exact rules for browns executive orders are delayed due to COVID19. 5 million was dedicated to the rule making process in march 2020
+            - 45% reduction below 1990 levels by 2035, and an 80% reduction by 2050
+            - The state will have less funding to adapt. funding policies instead of other things I think
+
+        US Mayor's climate protection agreement:
+            - an intitiative to advance the goals of the kyoto protocol at the city level
+                - participating cities aimed to meet or exceed kyoto tarets at the city level
+
+        Now what?:
+
+            the next UN summit on climate change is planned for november 2022 in sharm el sheikh, egypt.
+
+            Green new deal:
+               - platform for transmorfitive policies to address climate change
+
+              - Authored by AOC and Sen Ed Markey in Feb 2019
+
+               - Advocates transitioning the US to 100% renewable energy sources and investing in electric cars and high speed rail systems
+
+               - Played a large role in democratic presedential candidates' platforms in 2020
+
+            Current Biden administiration plan:
+                -   rejoin paris Agreement
+                -   52% reduction in US GHG pollution from 2005 levels in 2030
+                -   carbon free power systems by 2035
+                -   plan to stop oil and gas leases on federal land 
+                -   climate intitiatives have been removed from large infrastructure proposal
+
+                Oregon house bill:
+                    - Gov. Brown signed a new climate bill in late july 2021
+                    - elims co2 emissions from the power grid by 2040 
+                    - Bans contructions or expansion of power plants that run fossil fuels 
+                    - 50 million in grants for community renewable energy projects 
+                    - Only applies to power sector, where the failed cap and trade system would have addressed emissions in manufacturing and transportation as well
+
+
+            1. deliver a mitigation work programs
+            2. meaningful progress on the global goal of Adaptation
+            3. addressing the loss and damage deficit
+            4. addressing climate finance challenge
+
 
