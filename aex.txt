@@ -527,7 +527,7 @@ Tuesday October 11th:
                                Need significant research for both measures to apply....
 
             Use Value Example: outdoor recreation:
-                
+
                 3 Sources of Economic Value:
 
                 Use value: the utility of consuming a good or services
@@ -790,7 +790,7 @@ October 20 2022
 
         California's cap and trade program:
             - Auction are held for polluters to purchase permits, number of allowances declines with time 
- 
+
             - Offsets allowed for 8% of compliance 
 
             - Participations limited to sources that emit at least 25k metric tons Co2/years
@@ -861,5 +861,101 @@ October 20 2022
             2. meaningful progress on the global goal of Adaptation
             3. addressing the loss and damage deficit
             4. addressing climate finance challenge
+
+
+October 25 2022:
+
+  (Looking at the true social cost of carbon)
+
+  Remember the supply and demand Curve
+
+  The curve is shifted up to correct for pollution being too cheap
+
+  Social cost of carbon:
+    What is it? 
+
+      Social cost of carbon (SCC):
+        a dollar estimate of damages from emitting from one additional ton of GHGs put into the atmopshere 
+
+        Monetizatation puts the effects of climate change into economic terms to help policymakers (putting the costs and benefits into quantifiable metrics)
+
+
+  Calculating the SCC:
+    Step 1: Predict future emissions based on population, economic growth, and other factors
+
+    Step 2: Model future climate responses, such as temperature increase and sea level rise (Use a lot of data modelling for this)
+
+    Step 3: Assess economic impacts from climate change sectors within the economy
+
+    Step 4: Convert future damages into their present-day value and add them up to determine total damages
+
+  Choice that impact SCC Estimates:
+
+    - intergenerational equity (livelyhood of people in the future compared to people today)
+
+    - Geographic scope of the calculation (where is this happening)
+
+    - How to account for uncertainty (What don't we know and how dangerous does these external factors get?) 
+
+    - Environmental Justice
+
+      Intergenerational equity: 
+        - Transplanting future damages into present day value
+
+        - Uses a discount rate 
+
+        - Future costs and benefits are generally considered less significant than present costs and benefits
+
+      Geographic Scope of the calculation:
+        National? Global?
+
+        Different choices result in different Estimates
+
+      Accounting for uncertainty:
+        - Necessary to make some assumptions that introduce some uncertainty (lot of decisions that go into these modelling efforts, there's various ways to make different models with various assumptions) 
+
+        - SCC best represented by a range of possible values, rather than a single number
+
+        - Valuing uncertainty would likely increase the SCC substantially (If we took into account that bad things could happen more often, our policy guide will also take uncertainty into account)
+
+     Environmental Justice:
+      - Equity considerations not included in current SCC estimates 
+
+      - Changing weights given to damages in low-income communities
+
+      - Studies show consideration of EJ issues could raise SCC by 2.5 times or more
+
+
+
+     Brief history of the SCC:
+
+      ......
+
+
+      trump administiration set the SCC to 1 dollar/ton (Backed by no science)
+
+
+    The SCC and BCA (Benefit Cost Analysis):
+      - A primary policy vehicle that uses the SCC is benefit-cost analysis
+
+      - BCA is a process through which governments systematically measure and assess the pros and cons of alternatives 
+
+      - .....
+
+
+      - SCC translates climate imoacts into dollars for BCA 
+
+      - SCC can be used to calculate costs of increased emissions
+
+      - ......
+
+      How is SCC used: 
+        - Developing new policies that:
+          - regulate power plants
+          - set energy efficiency requirements
+          - establish fuel Economy
+
+        - Setting the $ amount for taxes and subsidies for:
+          - federcal carbon tax proposals
 
 
