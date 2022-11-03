@@ -958,4 +958,148 @@ October 25 2022:
         - Setting the $ amount for taxes and subsidies for:
           - federcal carbon tax proposals
 
+October 27th 2022:
+
+  Discounting:
+    We need a way to aggregate benefits and costs that occur in different years: Discounting provides a potential solutions 
+
+    The discount rate is the rate at which the value of dollars deflate over time
+
+    Discoutning is the process of converting a value recieved in a future time period to an equivalent value recieved immediately
+      (What is 100 dollars in the future worth today?)
+
+    Discounting for decision making:
+      discounting is way to convert units of value across time horizons 
+
+      Discounting is used by decision makers to fuly understand the costs and benefits of policies tht hae future impacts
+
+    Why discount:
+      - people are impatient
+      - people expect to be wealthier in the future
+      - money received today can be saved and invested
+
+    Setting the rate:
+      Discount rate of zero: 
+        - Present benefits are equally as valued in the future
+
+      Low discount rate: 
+        - Present benefits are only slightly more valuable than future benefits
+
+      High Discount rate:
+        - present benefits are more valuable in the present than in the future
+
+      Disounting and climate change:
+        effective policy needs to consider long-term benefits 
+
+    What rate to choose:
+      Estimates in the U.S. range from 2 to 7% 
+
+      Societies with pressing immediate needs likely to have higher discount rates - immediate needs....
+
+    Different approaches:
+      Prescriptive (or Normative) Approach:
+        - Ephasize philosphical and ethical considerations
+        - .....
+
+    Descriptive (or Positive) approach: 
+        - How do inviduals and markets trade off current and future consumption based on observed behavior 
+
+
+November 1st 2022:
+
+  Introduction to market based carbon pricing:
+ 
+    - Carbon pricing works by charging polluters for the tons of carbon dioxide emitted for which they are responsible
+
+      - CO2 is largely through the combustion of fossil fuels used for electricity generation, industrial production, transportation, and
+        use of energy in residential and commercial buildings.
+
+    Benefits of carbon pricing:
+      - flexibillity: flexibillity to firms to find the best way to reduce emissions in response to the carbon price
+
+      - Cost effective: the dynamic of carbon pricing alllows for carbon pricing to be at the least cost for society as a whole
+
+      - incentivizes conservation: provides incentives to reduce emissions more than conventional regulations. Regulations do not regulate overall demand, 
+        it only sets limit per unit of output. Something like a carbon tax would likely result in higher prices, which would therfore reduce demand.
+
+      - Generates revenue: creates new revenue streams that can be used by governments in several ways. For example, investments in renewable energy capacity,
+        offsetting distributional impacts of the pricing policy, or reducing other distortions in the economy by lowering income tax rates.
+          - Revenue use can affect the economic costs and political feasibility of carbon pricing policy.
+
+      Pricing polcicy design:
+
+        Setting the price:
+            Ideally the carbon price would be set equal to the marginal damage of carbon emissions
+              (Marginal damages are the damage caused by adding one additional ton of carbon dioxide into the atmopsphere)
+
+            THERFORE, THE PRICE SHOULD BE SET TO THE SOCIAL COST OF CARBON
+
+        Coverage:
+          The coverage of a carbon pricing policy determines which sectors of the economy and which emissions types are covered by the carbon price
+
+        Point of regulation:
+          Appoints who is required to submit permits or pay the tax to the government 
+
+          - An upstream carbon tax would tax fossil fuel producers for the carbon content of their products
+
+          - A midstream tax would tax the first purchaser of fossil fuels in the supply chain.
+
+          - Downstream tax applies to the emitter - including, power plants, industrial users, or households and business that use gasoline in their vehicles.
+
+        Stringency of policy:
+          Determined by the level of the tax rate or the emissions cap and how they change over time. In determining strigency, policy makers face a trade-off
+          between environmental goals and the cost of meeting those goals.
+
+Carbon Taxes & Cap and trade programs:
+ 
+    A carbon tax is a price set per ton of carbon or per ton of CO2 emitted.
+
+    Carbon taxes provide a price certainty, as entities subject to the tax know how much they'll have to pay per ton emitted.
+      (However, setting a tax rate does not gauruntee a set quantity of emissons reductions)
+
+    How are firms regulated by a carbon tax likely to behave?
+      If the tax per unit is higher than costs to get rid of the pollution, a firm will REDUCE emmitions.
+
+      If the tax per unit is lower than the costs to get rid of the pollution, a firm will CONTINUE emitting and pay the tax
+
+      A carbon is simple and easy to implement - it also has the attractive property of being automatically cost-effective!
+
+      Cap and trade programs:
+        - A cap and trade program limits the total amount of co2 emitted by certain facilities.
+
+        - The government issues limited emissions allowances: 1 permit = right to emmit 1 ton of Co2
+
+        allowance distribution:
+          - Direct allocation of firms 
+          - sold through auction markets 
+
+        - Limited, government controlled supply of allowances caps total emissions
+
+        - Allowances can be traded, and the supply and demand for allowances yield a market equilibrium and a price for allowances 
+                                                                         (And essentially a price for one ton of carbon emissions)
+
+        - Some cap and trade programs allow for the banking and borrowing of allowances over time
+
+        - Offsets - Can companies use verified emissions reductions generated outside the cap comply? 
+
+
+        Cap and trade provides quantity certainty, since a regulator sets a cap on total emissions allowed.
+
+          - Hybrid systems can be used to reduce price or quantity uncertainty
+
+        How are firms regulated under a cap and trade likely to behave? 
+          - if the permit price rises above the cost where it is higher than a firm's cost to get rid of the pollution, the firm will SELL permits
+
+          - if the permit price rises below the cost where it is cheaper than a firm's cost to get rid of the pollution, the firm will BUY permits
+
+        A cap and trade market only works if there is a variation in pollution and cleanup costs across firms
+          - i.e. there needs to be both buyers and sellers for the market to function
+
+
+      challenges of a cap and trade program:
+
+
+
+
+
 
