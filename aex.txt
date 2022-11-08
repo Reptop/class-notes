@@ -1087,7 +1087,7 @@ Carbon Taxes & Cap and trade programs:
 
           - Hybrid systems can be used to reduce price or quantity uncertainty
 
-        How are firms regulated under a cap and trade likely to behave? 
+        How are firms regulated under a cap and trade likely to behave?
           - if the permit price rises above the cost where it is higher than a firm's cost to get rid of the pollution, the firm will SELL permits
 
           - if the permit price rises below the cost where it is cheaper than a firm's cost to get rid of the pollution, the firm will BUY permits
@@ -1098,8 +1098,90 @@ Carbon Taxes & Cap and trade programs:
 
       challenges of a cap and trade program:
 
+3 November 2022:
 
+  Revenues from carbon pricing:
 
+    Uses for carbon revenues:
+      - Redistribute to households 
+      - Reduce other distortionary taxes
+      - Investments in other climate mitigation or adaptation strategies
+      - General spending
+      - Deficit Reduciton
 
+  Redistribution:
+ 
+    Money back to households:
+      - Check
+      - credit 
+      - Existing programs
+
+    How to redistribute?:
+      - Evenly among households
+      - Graded based on Income
+
+    considered progressive:
+      Dividend will likely exceed the increased costs incurrred by average low and middle income households
+
+  Reducing other taxes:
+    Tax swap:
+      - Use revenue to reduce taxes on labor or capital
+ 
+    Revenue recycling effects:
+      size depends on distortions reduced
+
+    Double Dividend Hypothesis:
+      - Environmental taxes can both reduce pollution AND reduce the overall ecoomic costs associated with the tax system by 
+        using the revenue.....
+
+    General Spending:
+      - Schools
+      - Universal healthcare 
+      - infrastructure improvement
+
+    Deficit Reduction:
+      Policymakers may decided to use carbon pricing revenue to deficit.... 
+
+    Other climate investments:
+      Many examples:
+        - Fund renewable energy projects
+        - Subsidize electric vehicles 
+        - Increase energy efficiency in buildings
+
+  Political feasibility of carbon pricing:
+    There is an inherent equity-efficiency trade-off in revenue use: 
+      - Dividends make the policy more equitable but more expensive
+      - Tax swaps make the policy less equitable but less expensive
+      - Green spending is popular but may be less equitable & more expensive relative to other options
+
+  Impacts on households:
+    expenditures:
+      - Energy costs likely to rise
+      - .....
+
+    Income: 
+      -
+
+  Progressive:
+    if the costs of a policy consitiute a larger proportion for high income households than low income households 
+
+  proportional: 
+    if the policy's costs consitiute the same proportion of income for households with different income levels
+
+  Regressive:
+    if the costs of a polcy consistuate a larger proption of income for low-income households than high-income....
+
+  Carbon pricing policies:
+    Thought of as Regressive: low-income households spend a larger share of their incomes on carbon intensive goods 
+
+    Recent research suggests otherwise:
+      - Low income households recieve a greater share of their income from government transfer payments that are linked to Inflation
+
+      - Carbon-intensive industries generate capital....
+
+    Revenue use:
+      - Revenue use is the most significant factor that determines distributional impacts from carbon pricing 
+      - Dividends can be made more progressive through policy choice 
+      - Tradeoffs between equity and efficiency persist
 
 
