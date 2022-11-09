@@ -1181,7 +1181,70 @@ Carbon Taxes & Cap and trade programs:
 
     Revenue use:
       - Revenue use is the most significant factor that determines distributional impacts from carbon pricing 
-      - Dividends can be made more progressive through policy choice 
-      - Tradeoffs between equity and efficiency persist
+      - Dividends can be made more progressive through policy choice Tradeoffs between equity and efficiency persist
+
+
+November 8th 2022
+
+    Adaptation in Agriculture:
+
+      Climate impacts on global Agriculture production: 
+        - Climate change threatens food security, especially in developing world 
+        - Climate zones shifting poleward, altering the distribution of highly productive Agriculture areas
+        - Worst yield declines are predicted for developing countries
+        - Researchers expect yields of most major crops in the U.S. to decline through the end of this century
+
+      - Private adaptation options exist for marginal changes in existing systems
+      - public adaptation through policy may be Necessary to support larger adaptation efforts in xhanging production systems and income support
+
+    Private Adaptation: How farmers adapt 
+      - Alteration of inputs
+      - Water use technologies & management
+      - Timing and location of cropping activities
+      - Improving pest & fertilizer managment 
+      - use climate impacts to reduce production risks
+
+    Public adaptation: Policies Needed 
+      - Mainstream climate adaptation into existing sustainable development policies
+      - Informing investment 
+      - Connecting researchers to farmer and stakeholders to improve risk management
+      - Education and extension
+      - Insurance....
+
+    USDA climate hubs:
+      USDA established cliamte hubs to facilitate climate-informed decision making 
+        - Mission combines regional scientific research with outreach to farmers
+
+      Through climate hubs, USDA 
+        - provides technical support for landowners responding to climate change
+        - assessess and monitors the risk to agricultural production
+        - Conducts...
+
+      Adaptation in Forests:
+        Forest managers need to respond to a wide range of factors, all of which may be influenced by climate change
+
+        Forests role in climate change:
+          Both cause of and solution to GHG emissions
+            - deforestation contributes about 12% of GHG emissions
+
+        Mitigation potential as carbon sink: 
+            - 1/3 of global emissions each years is absorbed by forests 
+            - Huge potential for further storage from restoration
+
+        Adaptation:
+          - How to help forests adapt
+          - How to forests can help us adapt more broadly
+
+        How to help forests adapt:
+          - Forest Productivity:
+            - Selecting heat or drought tolerant species in planted Forests
+            - Assisting natural regeneration with adapted species 
+            - modifying rotations lengths
+            - Investing in measures to improve soil structure aand reduce water stress
+          - Biodiversity
+            - Adjust management plans 
+            - Manage forests for diversity of species age, and structure 
+            - Expand protected areas
+            - Promote landscape connectivity
 
 
