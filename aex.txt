@@ -1273,3 +1273,82 @@ November 8th 2022
     - Ecosystem base management 
     - more adaptive than engineered infrastructure
 
+
+November 15th 2022:
+
+	Coastlines as Coupled Human-Natural Systems:
+		- Two way feedbacks between coastal change and human behavior
+		- climate change is forcing adaptation investments
+	Coastal Areas in the US:
+		- 127 million people (40% of population) live in coastal counties		 
+		- population density is 5x greater
+		- Subject to risksfrom flooding, hurricanes, sea level, rise and erosion
+	General Adaptation Options:
+		- Shoreline stabalization
+			- Grey infratructure (Primary Adaptation strategy in developed areas, 60% of costs... LHR):
+				- Sea Walls 
+				- Revenants
+				
+			- Green:
+				- Green infrastructure:
+					- Beach nourishment (
+					- Cost: > 10 billion spent to date (of taxpayer money)
+					- Coastal Wetlands Restoration
+					- ...
+		
+		- Accommodate 
+			- Elevate homes & roads
+				- Raising structures above base floos elevation
+				- Many communities in Florida are beginning to invest in elevating major roadways
+		- Land use policy:
+			- Limits on development in risky areas
+			- Building code changes
+
+		  E.g: 
+			- Goal 18:
+				- Focused on protecting Oregon's beaches and dunes
+				- Reducing exposure to costal hazards
+				- Specific Regulations associated with:
+					- Prohibiting development in sensitive areas
+					- Limiting coastal armoring
+					- Limiting costal....
+				
+				- Protection of private property vs. public access
+		- Retreat:
+			- moving homes and infrastructure out of hazard areas
+			- Fears of "economic wasteland"
+		
+		Why ecnonomic analysis matters
+			- People respond to policy, risks, and changes in environmental quality
+			- Understanding and modeling incentives created by coastal policy s necessary to understand behavioral feedbacks on expected outcomes
+			- Changes in policy and or...
+		Economic research questions:
+			- ....
+
+		Existing federal policies on coastal development and Risk:
+			- Coastal zone managament act
+				- Passed in 1972 as a measure to encourage states to develop coastal management plans
+					- Goals: 
+						- Protecting natural resoruces
+						- Managing development in high hazard areas
+						- providing public access for recreatoion
+						- ... 
+			- FEMA hazard mitigation grant program
+				- Provides funding for eligible mitigation measures that reduce disaster losses
+				- This program can be used to fund projects to protext either public or private property
+				- This funds ....
+			- FEMA individuals and households program 
+				- Provides financial and direct services to eleigivle indiciduals and households affected by a disaster
+				- This is not a substitute for insureance and cannot compensate for all lossess
+			- National flood insurance program
+				- Created in 1968 to share risk of flood losses through insurance and restrict floodplain development
+				- Required for all homes in a floodplain, but uptake is not complete
+				- underwrite over 5 million flood insurance policies for 1.2 trillion coverage, yet only brings in 2.2 billion in insurance premium
+				  payment
+
+
+
+17 November 2022:
+
+  Moral Hazard: occurs when an individual has an incentive to increase its 
+  exposure to risk because they do not bear the full costs of that risk
