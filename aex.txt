@@ -1283,23 +1283,26 @@ November 15th 2022:
 		- 127 million people (40% of population) live in coastal counties		 
 		- population density is 5x greater
 		- Subject to risksfrom flooding, hurricanes, sea level, rise and erosion
+
 	General Adaptation Options:
 		- Shoreline stabalization
 			- Grey infratructure (Primary Adaptation strategy in developed areas, 60% of costs... LHR):
 				- Sea Walls 
 				- Revenants
-				
+
 			- Green:
 				- Green infrastructure:
 					- Beach nourishment (
 					- Cost: > 10 billion spent to date (of taxpayer money)
 					- Coastal Wetlands Restoration
 					- ...
-		
+
 		- Accommodate 
 			- Elevate homes & roads
 				- Raising structures above base floos elevation
 				- Many communities in Florida are beginning to invest in elevating major roadways
+
+
 		- Land use policy:
 			- Limits on development in risky areas
 			- Building code changes
@@ -1347,8 +1350,94 @@ November 15th 2022:
 				  payment
 
 
-
 17 November 2022:
 
-  Moral Hazard: occurs when an individual has an incentive to increase its 
-  exposure to risk because they do not bear the full costs of that risk
+  Moral Hazard: occurs when an individual has an incentive to increase its exposure to risk because they do not bear the full costs of that risky
+
+    - Expecations of aid may discourage private adaptation and encourage risky development (For example....)
+
+    - Evidence is mixed on whether moral hazard is a significant problem with federal aid policies mostly due to the fact aid programs do not often cover all losses
+
+  Adverse Selection:
+    Adverse selection occurs when asymmetric infromation is exploited (for example, federal government funding a farm for following environmental protocols, despite the farm already following these protocols)
+
+    - in NFIP, the concern is that that homeowners could have private information about their flood risk and the program could end up only insuring high-risk
+    properties
+    - Recent evidence suggests no adverse selection problem exists due to homeowners lack of understanding of their own risk
+
+  Perverse incentives & unintended consequences:
+    ....
+
+28 November 2022:
+
+  climate migration:
+    The movement of people who leave their habitual place of residence, either temporarily or permanently for reasons of sudden
+    or progressive change in the environment due to climate change.
+
+    - most migrants are doing so within their own countries
+
+    - Aleady existing patterns in developing worlld of climate migration
+
+    Causes:
+      - Suddent onset disaters
+        - hurricanes 
+        - Wildfire 
+        - floods
+      Internal temprorary migration
+
+      Slow onset disaster:
+        - Sea level rise 
+        - Drought 
+ 
+        Higher likelihood for cross-border permanent movement
+        
+
+      Migrants or Refugees?
+
+      "Refugee" used to add sense of urgency & seriousness of the situation
+
+      Worse-Case Prediction:
+        - Complex challenge with data limitations
+        - Depends on several factors:
+          - quantity of future GhG emissions 
+          - rate of future population growth and distribution 
+          - Effectiveness of local and national adaptation strategies
+
+      Impacts in the US:
+        Wildfires, hurricanes, droughts, and floods heightened by climate change 
+
+        --if people move, where will they go?-- 
+          People will likely move torwards California and the NW just because of climate influences alone
+
+      how to spot it:
+        World bank suggests that acting now will reduce the number of people forced to move by climate change as much as 80 percent
+
+Climate Gentrifiction:
+  
+  Gentrifiction: process where the character of a poor urband area is changed by wealthier people moving in and displacing current inhabitants
+
+    - This may revitilize certain areas, but it also displaces longtime residents and businesses, leaving a new demographic to enjoy the benefits
+
+  Gentrifiction with climate change:
+    --Areas now more attractive--
+
+    - May lead to an influx of real estate investment and spiking home prices in poorer areas with better climate resistance
+
+    Three mechanisms of climate gentrifiction:
+      - Surperior investment:
+          climate resilient properties are more desirable so their prices increase and high income households can only afford them.
+
+      - Cost-burden:
+        less resilient neighborhoods are inaccessible to low-income people who cannnot afford the expenses associated with natural disasters
+
+      - Resilience investment:
+          where a neighborhood hasa  climate resilient infrastructure which makes it more expensive
+
+        Natural diasters:
+          - can also accelerate Gentrifiction 
+          - Predatory investors and developers take advantage of even cheaper property and land values than existed prior to a disaster
+
+
+
+
+
