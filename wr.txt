@@ -1,0 +1,22 @@
+January 10th 2023:
+  Why is it important to communicate effectively?:
+
+     Communication empowers people and can facilitate a cohesive, effective team. 
+
+     The benefits of collaboration is highly controlled by how well a team communicates effectively.
+
+  Technical Communication:
+    communcates technical information in any medium (Technical writing is more objective and research based)
+
+  technical writing:
+    - Makes careful use of design and layout to enhance use
+
+    - is ethical, objective, and accurate
+
+    - upholds field/organization foals, cuture and values
+
+    - technical writing I have encountered (programming documentation, cookbook, motherboard manual, lego instructions, khan academy, manuals) 
+                                           (this seems quite broad)
+
+
+
