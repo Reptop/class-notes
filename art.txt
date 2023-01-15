@@ -1,14 +1,16 @@
 January 9th 2023:
 
   What is art?:
-    Random house dictionary defines "art" as the "quality, production, expression, or realm of what is beautiful or of more than ordinary significance."
+    - Random house dictionary defines "art" as the "quality, production, expression, or realm of what is beautiful or of more than ordinary significance."
     Others have defined art as something human-made that combines creative imagination and technical skill, and satisfies an innate desire for order and harmony.
 
-    At various times and places, the complex notion of what is art has little to do technical skill or beauty.
+    - 
 
-    Also, how we interpret art is greatly influenced by our upbringing, education, gender, race, experiences, and economic status. 
+    - At various times and places, the complex notion of what is art has little to do technical skill or beauty.
 
-    Works of art do not always have to be created by individuals who percieve themselves as artists, Nor all works produced for an art market. 
+    - Also, how we interpret art is greatly influenced by our upbringing, education, gender, race, experiences, and economic status. 
+
+    - Works of art do not always have to be created by individuals who percieve themselves as artists, Nor all works produced for an art market. 
 
   What is art history?
     In art history, historians aim to study art from the perspective of its original context of production and reception (those who formed the origninal audience)
@@ -23,9 +25,85 @@ January 9th 2023:
       - The most objective method of study for art historians
       - Requires a close inspection of the work itself
 
+  Identifying subject matter:
+    When we seek to understand the subject of a work of art we derive meaning intitially from two ways:
+      - first we recognize and percieve "natural subject matter" by recognizing forms and expressions from our own personal life
+      - Then "iconography" to identify the conventional meanings associated with forms as bearers of narrative or symbolic content
+
+  Natural Subject matter:
+    We recognize certain things simply by living in a world similar to that represented by the artist
+
+  iconography: some subjects are associated with conventional meanings established at a specific time and place. Discovering these conventional 
+               meanings is iconography. 
+
+  Integration within cultural contexts:
+    analyze the work through an embodiment of its cultural situation (economic, political context)
+
+January 11th 2023:
+  
+  In class notes:
+  
+    Art - the expression or application of uman creative skill and imagination,
+
+    typically in visual form sich as painting or sculpture, producing Works
+
+    to be appreciated primarily for their beauty or emotional power
+
+    ART = FORM + CONTENT 
+
+    Always go beyong description - How did the author create meaning?
+
+    ---------CULTURAL CONTEXT---------
+
+ implied lines: lines we dont see, but follow with our eyes
+
+ visible lines: can imply movement (perhaps add to composition)
+
+ Space: even empty space can impliciate meanings
+
+ Scale: the size in relation to a standard nomral size 
+
+ Propotion: Size in relation to something else 
+
+ texture: surface quality
+
+ Actual texture: surface quality 
+
+ Perceived texture 
+
+ Movement can be created through: Line color, rhythm in repitition
+
+composition: Overall organization of forms/ space 
+
+Often incorporates multtiple formal elements
+Content Analysis:
+  - Story / Plot / Subject
+  - Characters
+  - Setting
+
+  Point of view
+  - Theme / Genre 
+  - symbolism
+  - Meaning 
+  - Function 
+  - Possible interpretations 
 
 
+Janurary 13th 2023: 
 
+  Old testament:
+    The first section of the bible covering the creation of earth through noah and the flood, moses, and more, finishing with the jews begin expelled
+    to babylon
+
+  New testament: tells the story of the life of jesus and the early days of christanity, most notably paul's efforts to spread Jesus' teaching
+  It collects 27 books, all originally written in Greek
+
+  The sections of the new testament concering Jesus are called the Gospels
+
+
+  The bible contains the word of God...
+
+ There is no rule against copying an image of christ, there is a rule of creating an image based on interpretation
 
 
 

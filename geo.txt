@@ -1,1 +1,120 @@
+Januray 11th 2023:
+
+  Pay attention to the specific terms used in questions asked in this class
+  some questions may be trying to trick you
+
+  Greenhouse Effect:
+    First defined in the 19th century:
+      First by Joseph Fourier
+
+      Eunice foot and John Tyndall also contributed to research
+
+      lastly, svante Arrhenius put together everything
+
+    The wavelength of radiation emitted by a body depends of the 
+    temperature of that body.
+
+    Hotter - shorter wavelength 
+    Cooler - Long wavelength
+
+    As a flame gets warmer, the light turns to cooler colors
+
+    The sun emits short wavelength radiation
+    the earth emits long wavelength radiation
+
+    most of UV from the sun and space is being absorbed by the ozone layer
+
+    UV is too high in energy, so it is therefore harmful to living organisms
+
+    Earth is trying to release infared energy, trying to cool itself down, but greenhouse gases
+    trap in this heat, which keeps the earth warm in temperature.
+
+    SW radiation from Sun absorbed by earth
+
+    Emitted back from earth as LW radiation
+
+    Greenhouse Gases: mostly transparent to incoming SW radiation
+
+    HOWEVER, GHG's strongly absorb outgoing LW radiation emitted by Earth
+
+    Decrease GHG concetration, absorb less outoging LW radiation - planet cools
+    (because we're releasing less heat)
+
+    Result: Earth's surgace is ~55 Degrees F (31C) warmer with atmospheric
+    GHGs than without
+
+    isotopes: atoms with identical chemical, but different mass
+
+    atmospheric co2 has become more negative (light), so we know that 
+    the increase in CO2 is from burning of fossil fuels, not from other
+    sources like volcanic activity.
+
+
+January 13 2023:
+  Earth System Science:
+
+    System - Set of components that interact with one another to operate as a single entity
+    Analogy - human body (heart, lungs, brain)
+
+    Change in one component - will affect one or more of other components in some way 
+
+    Result: entire system changes
+
+    Examples (biosphere, hydrosphere, cryosphere)
+
+    Five compnents of Earth System: 
+
+    solid earth (lithosphere, mantle, core)
+    atmosphere
+    hydrosphere
+    cryosphere
+    biosphere.......
+
+  Two major engines of change (regarding greenhouse effect):
+    Solar radiation (solar panel on the surface)
+    Geo thermal heat (nuclear reactor in the core)
+
+
+  Energy drives change through convection: transfer of energy, causing motion
+
+  Concvection within solid earth heat supplied from radioactivity
+
+  incoming solar radiation unevenly distributed more energy at equator than poles
+  (Less sunlight in areas other than equator, because you're absorbing more sunlight over larger amount of area)
+  (Equator is like directly getting hit by the sunlight, so its warmer. The poles are gonna be colder, causing atmosphere)
+
+  atmosphere circulation transfers warm air from the tropics to areas where there are an energy deficit
+
+  Convection in the ocean:
+    Dense water sinks, forms deep water...
+
+  Water is being transferred in the tropics to the poles, so the water is being cooled very rapidly - become more dense and sinks
+
+  The oceanic transports heat from the low latitudes to the high latitudes
+  ......
+
+  System compnents interact - feedbacks
+
+  Two major feedbacks: (just like in ib bio)
+    Positive (changes your equilibrium)
+    Negative (brings you back to equilibrium)
+
+    positive feedbacks will amplify the effect of something in a system (for example, the albedo effect)
+
+  more sea ice - more reflection 
+  less sea ice - more absorbtion of sea ice
+
+  Currently, there is a reduction in the cryosphere (albedo effect) (bad for the fucking polar bear - best bears god damn)
+
+  2016 reached a record low global sea ice extent 
+
+  The reduction of albedo effect is the main driving force for polar amplifciation
+
+Example of a negative feedback loop that is combatting against reduction in albedo effect: 
+
+  Increased evaporation and cloud formation -> more solar radiation - reduced warming
+
+  Warming from climate change with feedbacks:
+    is a lot larger due to positive feedback loops
+
 
