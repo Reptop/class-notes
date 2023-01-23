@@ -117,4 +117,237 @@ Example of a negative feedback loop that is combatting against reduction in albe
   Warming from climate change with feedbacks:
     is a lot larger due to positive feedback loops
 
+January 18th 2023:
+  
+  Geologic time:
+    immense length of time over which large global changes have occured
+
+    Where it started:
+      Universe started with the big bang 13.7 billion years ago - earth is 4.6 billion years ago
+
+    Where did all the elements come from?
+
+    Just after the big bang, we tons of helium and hydrogen everywhere
+    
+    Heavy elements are produced inside starts by ----nuclear fusion----:
+
+      Our sun : He -> H = asjdfadfasdf
+
+      iron and nickle heaviest elements produced
+
+
+      Big bang mostly hydrogen some helium, but most helium was overshadowed by helium produced by nuclear fusion 
+
+    Closest observed supernova:
+      Supernova 1987A
+
+    other supernova: Crab nebula 1054AD supernova explosion
+
+    is betelgeuse next? (next star to go supernova)
+
+  Elements come from:
+    Big bang - light elements
+    Fusion in stars 
+    Super nova explosions -- iron and nickle
+    Remaining elements are only made in the laboratory
+
+  Why there is so much iron and nickle:
+    Hydrogen, carbon, oxygen, and helium all burn until everything turns into iron and nickle
+
+  Geologic time:
+    How do we measure time?
+    How old is the earth?
+
+    In 1785, James Hutton pioneered the concept of geologic time
+
+  Uniformtarianism "the present is the key to the past"
+                    Processes operating at same rates today as in the past - Geologic Time
+
+  Carbon dating - Measure time with radioactive isotopoes (same number of protons, differing number of neutrons)
+
+  Stable isotopes do not decay over time 
+  radioactive isotopes decay
+
+  Radioactive decay:
+    Parent isotope --> daughter isotope
+
+    Rate of decay - described by half life:
+      Time required for 50% of parent to decay from previous value (100% to 50% to 25% to 12.5%)
+
+    Looking at the decay rate of the daughter isotope we can find find the age of that isotope
+
+    Different "clocks" for each elements (each element tells you how old it is, thus, different clocks or records of time)
+
+  Oldest Known mineral on earth:
+    4.4 billion years ago
+
+  We can also measure time by dating meteorites:
+    oldest meteorite formed at the same time as earth 4.5662 billion years ago
+
+January 20 2023:
+  Date meterorites formed - once again, same time as earth formed
+
+  Four topics today: A. Origin of the solar system
+
+  The sun: 
+    plasma made up of H and He 
+
+    inner planets: clostest to sun classified as "rocky" plants
+                    (Si, O, Mg, Fe)
+    
+    outer plants: further from sun -> gas planets (mostly H and He)
+
+    Why this distribution of plants
+
+    Nebula hypothesis:
+      Started as cloud of interstellar gas
+
+      1. Cloud - contracted under their own weight
+          (clouds of more weight will begin to pull more things given its gravity)
+          (This pulling force causing angular momentum)
+
+      2. Forms solar nebula:
+          A flat, rotating disk with matter concetrated at the center that will 
+          become the proto-sun
+
+      3. Condensation in disk surrounding protosun 
+
+      4. Accretion - gas and dust forms grains collide and clump together
+          into larger chunks (planetesimals)
+          (terrestrial planets grew by accretion of planetismals)
+
+    Formation of the moon:
+     1. Theia collided with infant Earth
+     2. Debris from collision into orbit 
+     3. Debris from collision collapses into orbiting disk 
+     4. Debris accretes to form moon 
+
+     Age of earth: 4.56 
+
+     Oldest rocks on moon: 4.51 
+
+     Moon thus formed shortly after earth 
+
+     Late Heavy bombardment:
+      Cratering of the moon's rufaces indicate planets sweeping up 
+      remaining debris (accumulation)
+
+    Last step in origin of the solid earth - planetary differentiation
+      distribution of elements within a planet is roughly the same 
+      everywhere 
+
+    (1) After initial formation interior heats up from:
+      - radioactive heats
+      -impacts
+
+    (2) Heavy elements melt and sink, lighter elements rise
+
+    (3) Differentiate plants into lithosphere, mantle, core
+
+
+  January 23 2023:
+    La nina
+    ....
+
+    el nino 
+    .....
+
+
+    The origin of life:
+      Abiogensis (chemical evolution):
+        The idea that life evolved spontaneously from inorganic/inanimate compound through self-organization
+
+        "Life was thus an almost utterly improbable event with almost infinte oppurtunities of happening. So it did"
+
+        Started with primordial chemical diversity
+          - polymers
+          - chiral selection 
+          - self organization 
+          - prokaryote 
+          - eukaryote
+
+
+        85% of life's history left no direct record
+
+        oldest fossiles:
+          0.54 Ga 
+        Oldest evidence of microbial life:
+          3.5 Ga Strotomalites
+
+        How did life begin?
+
+          The outcome of life right now:
+            (all life on earth started from one blueprint)
+            - is Cellular
+            - Same groups of molecules
+            - Same chemistry
+
+          Same molecules:
+            Carbon is the basis on all life on earth (organic if it contains carbons)
+            Also H, N, O, P, and S
+
+            Amino acids:
+              building blocks of protein
+              Organic compounds 
+              universal component for living things -> This unity suggests one common ancestor
+
+              Two types:
+                L amino acid, D amino acid 
+
+                chemically identical but mirror images of each other structurally
+
+                Life exclusively uses the L amino acid
+                 (we dont understand this yet)
+
+                L amino acids could turn in D amino acids and vise versa (what the fuck)
+
+                Miller urey experiment (primordial fluid):
+                  (Kinda unrelated but there was no oxygen in this environment)
+
+                  - They tried to simulate early earth and fed in foundational chemical molecules
+                  - Over 20 different amino acids formed 
+
+                Self assembled cellular containers or "proto-cell"
+                phopholipid bilayer formed!!!!!!!!!!!!!!!
+
+            Same chemistry:
+              Enzyme -> acts as a catalyst for chemical reactions (speeds up reaction... I already know this)
+
+              2018: Nobel prize in chemistry 
+                    For this person's work on "directed evolution of enzymes"
+
+                    ....ALL design is evolutionary
+
+          So where did life begin....
+            1. primordial life 
+            2. hydrothermal vents
+            3. panspermia
+
+          (1) - Primordia Soup:
+            - all these building blocks.. methane, ammonia phosphoric salts 
+            - extremeophiles
+
+          (2) Deep sea Hydrothermal vents (Black smokers):
+                - These vents create complex ecosystems around them 
+                  (all you need is energy from heat and chemical energy)
+
+          (3) - life orginated from SPACE ????????? ALIENSSSSSS 
+
+              2500 years of panspermia hypthesis:
+                500 BC seed of life 
+                ...
+
+              some meteorites have a dominant amount of L amino acids
+
+              Life originated from another planet? Could life also arrive on other planets?
+
+              The "rogue" martian meteorites
+                Electron microscope showed signs of microbial life (a martian!!)
+
+                Life elsewhere in the universe is not constrained to one origin 
+                  - could be panspermia, primordial soup, idk
+
+
+
+
 

@@ -56,4 +56,112 @@ January 12th 2023:
 
   Practicing with diffrrent audience types:
 
+January 17th 2023:
+
+  Some common types of technical reports:
+
+    Primary research reports:
+      - Lab reports
+      - Field reports
+      - Progress reports
+      - incident or accident reports
+      - Compliance reports
+      - Structural reports
+    Secondary/mixed research reports 
+      - Literature reviews
+      - Technical background and specification reports
+      - Feasibility reports (Cost-benefits)
+      - Justification reports
+      - Recommendation reports
+
+      Progress reports:
+        shows work that needs to be done and work that has been done. Really is just a progress report; they show progress
+
+  short reports:
+    1+ pages - not exceeding 5 
+    No requirment for font or back matter
+    Variable headings (depending on type / rhetorical situation)
+
+  long report:
+    in-depth, often analyitical or problem solving in nature
+    Multiple audience expected (parts for different audience)
+    Expected front and back matter
+
+
+    common long reports:
+      - letter of transmital
+      - title page 
+      .....
+
+
+January 19th 2023:
+  Making an effective table:
+    Generally, introduce visuals before they appear
+
+    Assuming the table is discussed prior to table placement, table label's come first
+
+    The denser the table gets with text the size of the table matters a lot more
+
+  Notes on partial samples:
+    could leave a note and say all these below are the same medium 
+
+    they added parrallelism
+    _______________________
+
+    Most specific categorizations are used
+
+    Can use numbers instead of writing them in words
+
+    font is too small, the accessibility is affected here
+
+  Avoiding plagarism:
+    Plagarism is...
+    - Copy / paste 
+    - inappropriate 
+    - failure to cite or to cite consistently
+    - Failure to use quote marks for source
+
+    How to avoid plagarism:
+      - Give yourself time to check citations
+      - Know the rules 
+      - Ask questions
+      - Cite not only when quoting, but also summarizing or paraphrasing
+        (in engineering, we usually dont avoid quotes because you are the one thats supposed to take of that writing,
+        you are the experts - quoting is info from experts. There can be exceptions though)
+      - Use proper resources
+
+      Rules of paraphrasing and summarizing:
+        - CITED Need to have in intext citations and citations at the footer 
+        - SENTENCE STRUCTURE Cant actually have the same sentence strucure as the original source
+        - ACCURATE / OBJECTIVE 
+        - IN YOUR OWN WORDS
+
+      Paraphrasing steps:
+        Read/reread until you understand
+
+        step away from the original text 
+
+        compose what you remember in your own words 
+
+        compare the original with the paraphrase
+
+        Edit any part that break the Paraphrasing rules
+
+      Source attribution:
+        - Citing 
+        - Source tags in text 
+
+        According to a 2020 pew research center survery.....
+
+      Quotes:
+        Keep quotes accurate (verbatim)
+
+        Keep quotes short
+
+January 22 2023:
+    A signal that a quotation is coming–generally the author’s name and/or a reference to the work
+    An assertion that indicates the relationship of the quotation to your text
+
+
+
 
