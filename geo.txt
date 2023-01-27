@@ -348,6 +348,80 @@ January 20 2023:
                   - could be panspermia, primordial soup, idk
 
 
+January 25th 2023:
+  Phanerozoic: Visible life 
+
+  Proterozoic 
+    Earlier life 
+
+  Precrambian:
+    Cenozoic : "young life" 
+
+    Mesozoic: "middle life" 
+
+    Paleozoic: "old Life"
+
+  Life first diversified into eukaryote and prokaryotes
+    prokarytes take the majority of the living life here in numbers
+
+    prokaryotes (don't have a nucleus, literally just IB Bio)
+
+    Eukaryotes: have a nucleus
+
+    How Eukaryotes evolved to be that way:
+      Endosymbiotic theory 
+
+      Two prokaryotes: one eats the other but doesnt destroy it. the other one lives in the other and they both thrive
+      somehow 
+
+      Strotomalites are fossiles of single celled organisms in 3.5Ga rocks
+
+      likely that life on earth formed 3.8Ga~ ??
 
 
+      Carbon 12 is mostly abundant
 
+      Carbon 13 is not as abundant
+
+
+    Evidence of first life is not based on fossils, rather based on isoptopically light carbon in graphite
+      inorganic carbon: around 0%
+
+    Cambrian explosion 
+    1. Rapid increase in diversity 
+    2. Capabillity to make hard shells
+
+
+January 27th 2023:
+
+  microbial life:
+    How to microbiologists study microbes?:
+      microbiologists are faced with making a microscopic obesrvation of something extremely small
+
+      Use molecular signatures to study microbial diversity:
+
+      Central dogma of molecular biology
+        DNA makes RNA makes protein
+
+      This one scientist's algorithm was able to group human literature, each literature had its own genre assigned to it.
+      The same scientist used this system to group proteins
+
+      Life as we know it; mostly microbial
+
+      Life requires thermodynamic disequilibria in the environment to get and 
+      store energy 
+
+      life harvests chemical energy by coupling favorable pairs of oxidation and reduction half-reactions and uses 
+      energy to do work (they use ATP as the currency)
+
+      Notice how the equation is the reverse of each other
+
+      microbes are have mostly low activities in the deep earth
+
+      in summary:
+        molecular signatures explain the details 
+        Almost immortal
+        ....
+
+        methogenesis:
+          Microbes using hydrogen as their source of energy, producing methane

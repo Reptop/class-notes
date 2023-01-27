@@ -163,5 +163,82 @@ January 22 2023:
     An assertion that indicates the relationship of the quotation to your text
 
 
+January 24th:
+
+  Ethical:
+    - Right vs wrong (what we ought to do)
+
+    - Not the same as legal; not objective 
+
+    - moral principles one should apply 
+
+    - respect for people and rights
+
+
+  Theories:
+    Virtue Ethics (Aristotle)- Balance and Compromise
+
+    Rights Ethics (Locke) - Individual worth / benefit 
+
+    Utilitarian Ethics (Mill) - Greatest Benefit to Greatest # 
+
+    Self Realization Ethics (Rand) - Optimal Self is Greatest Benefit 
+
+    How do we determine good, most good, and best interest? 
+
+
+2023 January 26th:
+  We'll be looking at specific examples and language discussions
+
+  Decide a point of view:
+    1st person: I, we 
+
+    2nd person: you 
+
+    3rd person: She/he, it, them (most common point of view in technical writing)
+
+      Students, engineers, software developers often...
+
+  Word choice, sentece length, variety:
+
+    aware vs cognizant
+    confuse vs obfuscate
+    sandy vs Arenaceous
+    Total vs aggregate
+
+    - vary sentences and try to limit length to 20 words or less 
+    - avoid slang, contractions, negative consutrction, and jargon depending on audience
+
+    Parallelism: using the same structure for listed items
+
+  Cut redudandcies:
+    Words/phrases: completetly surrounded on all sides
+
+    Empty modifiers: really, very, kind of, totally 
+
+    Entire sentences or sections
+
+  Tighten....
+
+  Make sure to use an active voice, in comparison to an passive voice 
+    passive is less of a direct form of speaking and is harder to read as a result. it also adds more redudandcies
+
+  Use efficient verbs:
+    will perform an investigation -> will investigate
+    Give instruction -> instuct 
+    Take into consideration -> consider 
+    Gives a financial advantage -> saves
+
+  INTRODUCTION:
+
+  POSTION OVERVIEW: INCLUDE MOST COMMMON professional organization FOR THIS FIELD, point out documentation style (citation)
+
+
+  Table 1. Design certification application table:
+
+    TAB THE TO FROM DATE AND SUBJECT SO THEY ARE ALL ON THE SAME LINE 
+
+
+  7 LINES OF TEXT FOR BLOCK FORMATTING
 
 
