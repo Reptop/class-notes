@@ -194,7 +194,7 @@ January 20 2023:
 
     inner planets: clostest to sun classified as "rocky" plants
                     (Si, O, Mg, Fe)
-    
+
     outer plants: further from sun -> gas planets (mostly H and He)
 
     Why this distribution of plants
@@ -361,6 +361,8 @@ January 25th 2023:
 
     Paleozoic: "old Life"
 
+    Precrambian
+
   Life first diversified into eukaryote and prokaryotes
     prokarytes take the majority of the living life here in numbers
 
@@ -425,3 +427,88 @@ January 27th 2023:
 
         methogenesis:
           Microbes using hydrogen as their source of energy, producing methane
+
+Monday January 30th 2023
+  - Starting the diversification of the biosphere
+
+  Geologic time:
+    subdivided by changes in life caused by mass extinction 
+      (Animals respond to the climate system, they undergo large changes in evidence like fossil records)
+        FOSSIL RECORDS are a significant piece of information
+
+    Much of life's history, there was single celled organisms
+
+    There really is a phylogenetic tree of life
+
+    Evolution powers our biodiversity
+
+    Adaptation is the key behind evolution -> survival of the fittest
+
+    Evolution is not just a hypothesis, it is an experiemental observation
+
+    Two sides of the evolutionary Process:
+      - Origination of new species 
+
+      - Extinction of species 
+
+    There was a strong species diversification during the Cambrian explosion
+
+  Mass Extinction:
+    Loss of a lot of life at once
+
+    Increases the rate of evolution
+
+  There has been 5 mass extinctions in our geologic RECORDS
+
+  The largest mass extinctions divide the eras of life
+
+
+
+  Comparing the eras:
+    Paleozoic: marine dominant 
+
+      Permian Triassic extinction event 252 Ma
+
+    Mesozoic: a lot of dinosaurs
+
+    THIS WILL BE ON THE EXAM
+      Creteaceous-Paleogene extinction event 66Ma
+
+    Cenozoic: a lotta mammals
+
+
+Origination rate: number of new species over time 
+
+Extinction rate: overall loss of species over time
+
+What caused these mass extinctions:
+  
+  Two leading hypotheses:
+    
+    Volcanism 
+
+    Impact event
+
+  Volcanism definition:
+    Large and rapid release of lava to earth's surface 
+
+    Formation of a LIP:
+      1. Plum forms at core mantle-boundary 
+
+      2. Rises Buoyantly up through mantle 
+
+      3. Plum reaches base of lithosphere, flattens 
+
+      4. Lava erupt to to earth's surface through fissures form "flood basalts"
+
+      Siberian Traps:
+        enough lava erupted to cover earth up to 20ft 
+
+        Eruption through an existing coal seem
+
+      There is a strong correlation between LIP and mass extinctions
+
+      Environmental consequnces:
+        Co2 -> warming -> oxeanic hypoxia (low oxygen)
+
+
