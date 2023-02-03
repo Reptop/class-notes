@@ -242,3 +242,102 @@ January 24th:
   7 LINES OF TEXT FOR BLOCK FORMATTING
 
 
+January 31st:
+  Technical Descriptions:
+
+    - Definitions / Expanded Definitions
+
+    Different contexts:
+      Part of a lrger document: proposal, incdent report, websites, etx 
+
+      A paragraph, memo, short report, specification, guides, websites, etc
+
+      Common parts:
+        Introduction with prupose and scope of the document 
+          intended Audience
+
+        Sentence defiition ofr mechinism
+
+        Function explanation
+
+        Features
+          Logical order?
+
+        Conclusion with operation note
+
+        Title and Introduction
+          State your object and its Definition....
+
+      Sentence Definition Example:
+        A cooling fan is an electromechanical device that uses eletrically-driven propeller to move air
+  
+      To describe specifications... use diagrams:
+        Color, Shape, Texture, methods of attachment, pattter/design, subparts. temperature
+
+    Mechanical Descriptions:
+      --How it looks--
+
+    Process Descriptions:
+      ---How something works---
+
+      uses indicitive mood, objective tone, and narrative form with text paragraphs
+
+
+Febuary 1st 2023:
+  Once again, two leading hypotheses:
+    Volcanism and impact event (asteroid)
+
+    The "great dying" mass extinciton at time of siverian LIP
+
+      Around 95% of marine species were eliminated
+
+      the K-pg mass extinction eliminated 75% of species
+
+      4 evidence types for impact event:
+        - iridium (Underwent planetary differentiation, asteroids have them beause they are too small to differentiate)
+        - shocked quartz (only forms at very high pressure)
+        - tektities (formed from molten rock droplets)
+
+      Where did that large asterioid impact earth 66 million years ago?
+
+      Environmental consequences:
+        1. Energy released 
+        2. Regional:
+            - Earthquakes (>10 magnitude)
+            - Tsunamis
+        3. Global:
+            Vaporize rocks - Co2 sulfric accident
+
+
+  K-pg extinction:
+    A double wammy of LIP and an asteroid event
+
+    The K-pg was the only one with strong evidence for impact
+
+    Was the permian triassic extinction also a double wammy?
+
+  We gotta think about reccurance intervals when discussing impact events:
+    big ones happen +/- 100 million years
+
+February 2 2023:
+
+  Purpose / Gap
+
+  Why are you writing this report?
+
+  What gap in solutions, information, etx, needs to be bridged?
+
+  History or background:
+    What kind of background knowledge is needed to understand this topic?
+
+  What will this report cover?
+    Overview report structure
+
+  High context:
+    have subject knowledge; reader's responsibility to understand information provided
+
+    low context: 
+      little subject knowldege; writer's responsibility to clarify information
+      (it is your responsibility to understand something because that writing is prob in your field)
+
+

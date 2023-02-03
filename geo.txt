@@ -511,4 +511,76 @@ What caused these mass extinctions:
       Environmental consequnces:
         Co2 -> warming -> oxeanic hypoxia (low oxygen)
 
+February 3rd 2023:
+  Evolution of the atmpshere:
+    The composition of the atmoshere has changed; 4.5Ga ago we didnt even have an atmosphere
+
+  Volatiles:
+    A chemical compound with a relatively low boiling point
+      (these are liquids that turn gaseous at room temperature)
+
+    Large atmospheric changes in 3 stages 
+    1. Prebiotic - no life, so no oxygen; 
+      Volatile degassing from planetary interior
+        Volcano degassing or impact degassing
+
+        Mantle volatile degassing is part of planetary differentiation 
+
+        Comets played a key role in providing water to the planets. Isotope ratio of oceans is similar to that of Comets
+
+        oldest mineral known on earth has evidence of liquid H20 
+
+        Origin of life - major factor in subsequent changes in atmospheric composition
+
+    2. Biotic - pre oxygen
+      at the time of origin of life, oxygen was a toxin
+
+      the primary forms of life before oxygen was METHANOGENSIS -> anoxygenic photosynthesis
+
+      Methane is a byproduct 
+
+      Early atmosphere was concentrated with methane
+
+    3. Biotic - oxygenated 
+      Cyanobacteria evolution, performing photosynthesis where oxygen is a byproduct
+
+      The great oxidation event occured 2.4Ga years ago !!!
+
+      The real question is: how did we know this happened... USING MINERALS AND ROCKS AS INDICATORS
+
+    REDOX REACTIONS:
+      
+      The GOE (great oxidation event) changed earth's surface chemistry
+
+      This was facilitated by redox reactions because more oxygen led to a more oxidized environment
+
+      - interior of earth is reduced
+      - hydrothermal vents but Fe(II) in ocean 
+      - early ocean was anoxic 
+      - oxygen in surface ocean goes and oxidates stuff
+
+    Banded iron formations:
+      Red areas indicate a point of time where the rocks became very oxygenated (rust)
+      the black bands indicated no redox reactions occured
+
+      Decrease in methane and Co2, as a result of increased Co2 
+        Co2: buried in ROCKS
+        methane: short life time in the atmpshere
+
+      Summary:
+        Prebiotic - 4.5-3.8 Ga 
+        Biotic - preoxygenated 3.8 - 2.5 Ga
+        Biotic - oxygenated 2.5Ga - present
+
+        Have 300x as much carbon than oxygen
+
+        The ratio of carbon to oxygen is 1:1
+
+
+    LIFE's BATTERY
+      We have a biosphere and oxygen 
+
+      Surface oxidations takes a lot of oxygen, the biosphere, however, removes carbon through getting buried in sediment
+      after dying. Oxygen is always there, but life is continously removing carbon 
+
 
