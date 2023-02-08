@@ -511,6 +511,42 @@ What caused these mass extinctions:
       Environmental consequnces:
         Co2 -> warming -> oxeanic hypoxia (low oxygen)
 
+Febuary 1st 2023:
+  Once again, two leading hypotheses:
+    Volcanism and impact event (asteroid)
+
+    The "great dying" mass extinciton at time of siverian LIP
+
+      Around 95% of marine species were eliminated
+
+      the K-pg mass extinction eliminated 75% of species
+
+      4 evidence types for impact event:
+        - iridium (Underwent planetary differentiation, asteroids have them beause they are too small to differentiate)
+        - shocked quartz (only forms at very high pressure)
+        - tektities (formed from molten rock droplets)
+
+      Where did that large asterioid impact earth 66 million years ago?
+
+      Environmental consequences:
+        1. Energy released 
+        2. Regional:
+            - Earthquakes (>10 magnitude)
+            - Tsunamis
+        3. Global:
+            Vaporize rocks - Co2 sulfric accident
+
+
+  K-pg extinction:
+    A double wammy of LIP and an asteroid event
+
+    The K-pg was the only one with strong evidence for impact
+
+    Was the permian triassic extinction also a double wammy?
+
+  We gotta think about reccurance intervals when discussing impact events:
+    big ones happen +/- 100 million years
+
 February 3rd 2023:
   Evolution of the atmpshere:
     The composition of the atmoshere has changed; 4.5Ga ago we didnt even have an atmosphere
@@ -581,6 +617,91 @@ February 3rd 2023:
       We have a biosphere and oxygen 
 
       Surface oxidations takes a lot of oxygen, the biosphere, however, removes carbon through getting buried in sediment
-      after dying. Oxygen is always there, but life is continously removing carbon 
+      after dying. Oxygen is always there, but life is continously removing carbon
+
+
+MIDTERM EXAM ON FEB 10TH 
+
+CONTENT:
+WEEKS 1-4
+
+      3 short answer
+      3 list questions
+      6 short answer questions
+        - Explain how the greenhouse effect works
+
+____________________________________________________
+
+Plate Tectonics:
+
+  "geology" of the class 
+
+  Contintental drift:
+    Precursor to plate techtonics
+    propopsed in 1912 by alfred wegener
+
+    Fit of coastline and similar rock types of each continent leads to the idea that the continents were one unit
+
+  Problem:
+    how the fuck did the continents move??
+    
+  Plate techtonics:
+    General hypothesis:
+
+    Plate techtonics:
+      General hypothesis:
+       1. lithosphere comprised of several planetes 
+       2. plates move relative to each other 
+       3. continents ride "piggyback"
+       4. motion driven by convection
+
+    Three types of plate boundaries:
+      Divergent plate boundary:
+        - spreading 
+        - mid-ocean ridges
+        - new crust is created
+
+      Transform plate boundary:
+        - horizontal movement 
+        - no crust created or destroyed 
+
+      Convergent plate boundary:
+        - subduction
+        - crust is destroyed
+
+
+
+where does oceanic crust form, and where is it destroyed?
+  forms from mid ocean ridges (Divergent zones)
+  and is destroyed at subduction zones (Convergent zones)
+
+Does continental crust behave in the same way (in the conveyor belt cycle):
+  Continental crust doesnt necessarily have the conveyor belt process, but the removal of crust is throuh
+  erosion, so they relatively the same in their end goals
+
+Why is the oldest oceanic crust older than continental crust?
+Formation of conintents happened a lot after the formation of oceanic crust due to mid ocean ridges
+
+Where is the ocean the deepest?:
+  The convergent boundaries, there is a downward slope down
+
+  Order these by density from least to greatest:
+    higher up you are, the lower density it is 
+
+    continental crust, oceanic crust, asthenosphere
+
+  Continental rock is usually granite (2700kg/m^3), while oceanic rock is basalt (2900kg/m^3)
+
+  continental crust is kinda like a leaf floating in water.
+
+1940s-60s:
+  Proving plate techtonics:
+    1. mid ocean ridges
+    2. deep sea trenches
+    3. distribution of earthquakes
+      Pacific ring of fire
+    4. distribution of volcanoes
+    5. Earth's magnetic field and paleomagnetism
+      - ID's magnetic field reversals
 
 

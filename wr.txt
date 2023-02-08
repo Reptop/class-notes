@@ -336,8 +336,69 @@ February 2 2023:
   High context:
     have subject knowledge; reader's responsibility to understand information provided
 
-    low context: 
+    low context:
       little subject knowldege; writer's responsibility to clarify information
       (it is your responsibility to understand something because that writing is prob in your field)
+
+Febuary 7th 2023:
+
+  Translation strategies:
+    Determine level of language you need to start with 
+
+    Define unframiliar terms
+
+    HC audience:
+      facts and figures require little explanation 
+      formulas and equations used
+      jardon used (including measurments) 
+      high technicality 
+      high level of precisions for measurments
+
+    LC audience:
+      used simplified word choices
+      define key concpets
+      limit the number of ideas per sentence or sections,
+      use explicit transitions, headings, and lists
+      use Descriptions
+      explain the importance or signifance for the target Audience
+      use greater degree of abstraction
+
+    looking at example:
+      how they failed:
+        using some unframiliar terms (propogation)
+
+
+      what they did good:
+        created a summary at the end
+
+
+  Definitions are used in technical writing
+    - to define new concepts, technologies, design species, ideas, words 
+
+    - Paranthetical definition example (usually in parantheases):
+      this call requires students to have tgeir own laptops (a small, portable computer)
+    
+    - Sentence defintion example:
+      A laptop is a computer with its own battery source and is portable
+
+    - Excerpt from a expanded defintion example:
+      NOOOO
+
+  Expanded definition:
+    Consider why this concept would be important to highlight/expand for your audience
+
+  Ways to expand:
+    - etymology
+    - history 
+    - negation
+    - compare/contrast
+    - required conditions
+    - analysis of parts
+    - variation/types 
+    - examples
+    - visuals 
+    - operating principles
+
+
 
 
