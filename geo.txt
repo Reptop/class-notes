@@ -704,4 +704,70 @@ Where is the ocean the deepest?:
     5. Earth's magnetic field and paleomagnetism
       - ID's magnetic field reversals
 
+February 13th 2023:
+  Global warming
+  - Climate System
+      Forcing - interection - variations
+
+  Timescales of climate change: slow
+    260 Ma: Pangea 
+
+    65 Ma: Current continental layout
+
+  Timescales of climate change: fast
+    El nino - La nina (2-7)
+
+  Timescales of climate change:
+    tectonic (>1 Myr), orbital(10 kyr - myr), millenial (0.5 - 101), dec-cen
+
+  Climate "forcings"
+    Mechanisms that cause climate change:
+      Example: changes in the sun
+  
+  Climate forcings:
+    Timescale:
+      - tectonic
+      - Orbital 
+      - millenial
+      - decadal-centennial
+
+  The main way the plant processes energy is the greenhouse effect:
+    Most of earth's energy absorbed as short wavelength energy !!!
+
+  Total amount of carbon is fixed 
+  carbon is divided over several reservoirs (source of carbon is vegeatation)
+  only carbon in the atmpshere contributes to warming
+
+
+  During the summer, the earth is breathing it a lot of carbon; in fall and winter, organisms die and they release their carbon
+
+
+  Biosphere, lithsosphere, atmoshere are the resovoirs involved in burning fossil fuels
+
+  Long term carbon cycle:
+    1. chemical weathering
+      Dissolving minderals in presence of water and co2, which creates dissolved products.
+      Dissolved products are carried by rivers to ocean
+
+    2. ocean mineralization: 
+      In ocean, used by organisms to make shells (resources are broken down on land and utilized my marine species)
+
+    3. volcanic degassing: plates are pulled under through plate techtonics, melted, and remitted as co2 through volcano magma
+
+
+
+  
+February 15th 2023:
+  
+   long term carbon cycle is a negative feedback loop:
+      Increased carbon burial through chemical weathering, earth cools down but is then regulated by volcanic degassing
+
+    the rate of volcanic degassing is controlled by the plate movements into subduction zones
+
+
+    Increasing chemical weathering:
+      1. increase temperature
+      2. increase mountain building
+
+
 

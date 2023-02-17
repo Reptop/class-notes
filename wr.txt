@@ -394,11 +394,142 @@ Febuary 7th 2023:
     - compare/contrast
     - required conditions
     - analysis of parts
-    - variation/types 
+    - variation/types
     - examples
-    - visuals 
+    - visuals
     - operating principles
 
+February 9th 2023:
+  How to format a good docuemnt:
+    - Make good use of all available space (remember that IB Bio research paper)
+    - Apply parrallelism (for example, in a table of contents)
+    - keep margins consistent 
+    - Use specific images, showing the different components of your topic
+    - introduce image beforehand
+
+  Visual benefits:
+    - Processed 60,000x faster (1/10th second)
+    - helps with long-term memory
+    - wider audience comprehension
+
+    Visuals:
+      - Offer a break from the Text 
+      - capture and gold people's attention 
+      - ....
+
+    Types of visuals:
+      TABLES or figures
+
+    FIGURES can take many forms and incude:
+      - graphs
+      - charts
+      - pictures
+      - illustrations, such as maps and diagrams
+
+    figures are labeled below, and tables are above
+
+    Bars and line graphs:
+      show change over time 
+
+      ....
+
+    Pie charts:
+      display how a whole is divided
+
+      Show a relationship between the part and the whole
+
+    Gannt chart:
+
+    Flow chart:
+    Diagrams or drawings:
+      - focus on important Features
+      - show spatial relationships
+      - call attention to details
+      - show process
+
+Lecture got cancelled on tuesday
+
+February 16th 2023:
+  procedural writing:
+    procedures-industry standard instructions
+
+  Instructions - tell how to perform a particular task
+
+  process Descriptions - describe how something works (parts and interactions)
+  
+    First consider the rhetorical situation:
+      - who? how skilled are they?
+      - what are they doing?
+      - when/where/why are they performing this task
+
+    The purpose of step by step is to create accessibility 
+
+    Include process Descriptions
+
+    Safety information:
+      Danger 
+
+      Warning
+
+      Caution
+
+    Instruction parts:
+      Clear Title (How to... How to put together...) Doesnt need to have a "how to" just be very specific 
+
+      Be very specific (not just read top dial... dead TOP left dial (in red))
+
+    Paragraph principles:
+      1. have a unified focus
+      2. show focus in an opening claim
+      3. arrange information to aid reading
+      4. eliminiate ideaa that shift focus
+      5. develop ideas sufficienty
+      
+
+      3 -> 6 -> 4 -> 2 -> 1 -> 5
+
+      Use known to new information (when writing paragraphs) --> this is a key technical writing principle 
+
+      GRAMMAR TIPS:
+        PREDICATE: The part of a sentence that indicates
+        - what the subject does 
+        - what happens to the subject 
+        - what is said about the subject 
+
+        Sentence:
+          - subject 
+          - predicate 
+          - complete idea 
+
+        Sentence fragment:
+          "BECAUSE ONE OF MY FRIENDS WON A CONTEST BY PLAYING A VARIETY OF INTSTRUMENTS" 
+            This is a dependant clause and thus a sentence fragment when by itself
+
+        Run on sentence:
+          A lot of sentences put together without proper punctuation
+
+        comma splice:
+          a random comma in between sentences
+
+        Semicolons:
+          Join together two independant clauses (place equal weight on each sentence)
+
+        Complex sentence: 
+          A sentence with a depdendant and independant clause
 
 
+        Coordinated conjuction:
+          (but, and or, for, yet, so)
+  
+        Use of colons:
+          Setting up a list:
+            - I ordered the following supplies: coffee, straws, and napkins
 
+            - setting up emphasis:
+              the jury finally reached a verdict: guilty 
+
+            - settting up an example, quote, or expanded explanation
+
+          
+
+        
