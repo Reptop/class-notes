@@ -745,18 +745,16 @@ February 13th 2023:
   Biosphere, lithsosphere, atmoshere are the resovoirs involved in burning fossil fuels
 
   Long term carbon cycle:
-    1. chemical weathering
+    1. chemical weathering:
       Dissolving minderals in presence of water and co2, which creates dissolved products.
       Dissolved products are carried by rivers to ocean
 
     2. ocean mineralization: 
       In ocean, used by organisms to make shells (resources are broken down on land and utilized my marine species)
 
-    3. volcanic degassing: plates are pulled under through plate techtonics, melted, and remitted as co2 through volcano magma
+    3. volcanic degassing: 
+      plates are pulled under through plate techtonics, melted, and remitted as co2 through volcano magma
 
-
-
-  
 February 15th 2023:
   
    long term carbon cycle is a negative feedback loop:
@@ -770,4 +768,444 @@ February 15th 2023:
       2. increase mountain building
 
 
+I MISSED LAST LECTURE FREE MEEEEEEEE (GONNA THE NOTES TODAY FOR THAT) (I lied but ill do it today I think)
 
+February 20th 2023:
+
+  Ice Ages:
+
+    Deep ocean temperature has a strong correlation to glaciation
+
+   East Antartica has more ice sheets, while west Antartica has a lot less. 
+
+   West antartica is being studied rn because it is primarily below sea level 
+
+   Why is the last glacian maximum almost equal to the modern glacial maximum?
+
+   Antartica is at its maximum because there cant be expansion of sea ice. you need land to 
+    grow ice on, but antartica is already expanding on the sea.
+
+  Modern landforms have much to do with glaciation. The great lakes, for example. 
+
+
+When warming stops, sea level will continue to rise because it is still rising in response to past warming
+  Global sea level was 120-130m lower than it was today 
+
+  oregon - washington coast 
+
+  I fucked up bruh - holy shit I fucked up. from future me, nah you didnt - you're fineeeeeee
+
+  How did we end up in the ice ages?:
+    Orbital Variability:
+      1. Eccentricity - how elliptical the earth's orbit is (the shape of earth's orbit) (100,000 years)
+        Give less radiation of earth - earth is farther away; the energy is being distributed over a larger area 
+
+      2. Obliquity - The tilt of the earth (Basically earth's axis going back and forth) (41,000 years)
+9
+      3. Axial Precession (The wobble of earth's axis) (Basically the axis wobbling n shi) (23,000 years)
+
+
+    Obliquity causes the seasons - The strength of tilt equals the strength of that season 
+
+    only thing that changes the amount of solar energy in the planet is Eccentricity
+
+    need colder summers to grow ice sheets in northern canada
+
+      1. Summer season = melt season of glacier 
+
+      2. Cooler summers - less melting - ice grows 
+
+      3. Warmer summer - ice melts - ice retrears 
+
+    1. Northern hemipshere changes most during glacial cycles because more land to grow ice one
+
+Wednesday February 22 2023:
+  Speleothems:
+    Greek words: meaning cave and deposit 
+
+    Are secondary mineral deposits on the ceilings, walls, and floors of caves
+
+    Calcarous spleothems are the best at recording climate information 
+
+    Spleothmes are basically fossilized water
+
+
+    Where to find them:
+      found in caves located in carbonate bedrock
+
+    formations of Speleothems:
+      - Flowstone
+      - Stalagmites 
+        ....
+      - Stalacites
+        oldest layers are at the center
+      - Flowstone
+
+
+    Formation of a Speleothems:
+
+      we need liquid water to form speleothems
+
+      - Soil zone
+        - need soil to make raindrop slightly acidic 
+      - Dissolution
+      - Precipitation
+
+    freezing temps
+      - prevent speletothems
+
+      - speleothmes cannot grow during inerglacial periods (water frozen !! oh my godd)
+    Proxies:
+      mineraology 
+      growth phases
+      growth rate 
+      oxygen isotopes 
+      carbon isotopes 
+      deuterium
+      trace elements
+      pollen
+      flood layers
+      broken
+
+   chinese monsoon:
+    changes in solar radiation are due to due to changes in distance from earth to the sun
+
+  How we date Speleothems
+    - Uranium-Thorium dating
+
+    Uranium is soluable and thorium is insoluable
+
+    We check the ratio of Uranium-Thorium ratio to verify age 
+
+
+February 24th, 2022
+
+Time scales of climate change: 
+tectonic, orbital, millenial, dec-cen 
+
+Different time scales have different forcings of change: 
+CO2, seaways, sun, ocean-ice, ocean-atm, volcanoes 
+
+Paleoclimate proxies: 
+climate proxies are an indirect source of information used to estimate climate conditions prior to direct observations
+
+natural archives: 
+ocean and lake sediments
+tree rings
+ice cores
+speleothem (cave)
+human archives: 
+  paintings
+  harvest dates
+  ship logs
+
+tree rings are the youngest, while ocean sediments are the oldest
+
+More years is less specificity = less resolution 
+
+less years show more detail on seasonal patterns: higher resolution
+
+todays focus: ocean sediments
+
+foraminifera are microorganisms with calcium carbonate
+  - they are incorporating carbon isotopes into their shells (carbon isotops tell if something is organic or not)
+
+When evaporating lighter oxygen 16, they are built up and locked away into ice sheets. The ocean will have a lot of heavier
+isotopes instead. Thus, when the ice sheets melt, lighter oxygen 16 become free. The ratio of heavy to light istotopes is more 
+skewed to being heav
+
+Monday Febuary 27th 2023:
+  Ice core records of climate change 
+
+  Antartica holds 58.3 meteres of sea level
+
+  In wood, as you go torwards the center, you are heading to older timelines
+ 
+  Antartica goes back 800,000 years
+
+  Orbital, Millenial, and Dec-en time scales apply to ice cores
+
+  What can we actually learn from ice cores records?
+    - WATER ISOTOPES
+      Low amounts of oxygen 18 compared to 16 (Rayleigh distillation of water vapor)
+      Oxygen 16 likes to get evaporated
+    - Chemicals and the dust
+    - Gas Bubbles
+
+  Relationship between Antartic ice cores water isotopes and in marine organisms
+
+  If you want to change the isotopic signature, you have to get it from somewhere
+
+  Chemical impurities in ice:
+    Na - Sodium 
+    Ca^2 - Calcium 
+    SO4^2 - Sulfate
+    NH^4 Ammonium
+
+  Volcanic Deposits in Ice Cores:
+
+    
+During which season will the d18O of snowfall be most negative? And most positive?
+
+As you incease temperature, delta 18 Oxygen increases as there is more energy...
+
+Why do we call d18O in ice cores a proxy for temperature?
+signifies relevant temperature
+
+  What we can learn from ice cores continued:
+    Firn:
+      the upper lower of an ice sheet where snow turns to Ice
+    Gasses in ice cores:
+      Bubbly ice melting for a measurement of CH4
+
+  Ice cores show what exactly is the naturally occuring global temperature increase:
+    Ice core records give context in the past, so we can use the past as a reference
+
+
+March 1st 2023:
+  Water isotopes are a temperature proxy
+
+  Low 18 Oxygen --> low temperature
+  High 18 Oxygen --> high temperature
+
+  We warm very quickly, but cool very slowly
+  Negative feedback loop, earth wants to go back to 
+
+Global overturning circulation of the ocean:
+  Goes around antartica, warms upwards (look how florida)
+
+  Pacific will be a lot colder than the Atlantic
+
+  Pacific is also a lot less salty than the Atlantic
+
+  Taking fresh water from the atlantic, and dumping it in the pacific
+  (This is why the atlantic is more fresh)
+
+ Is there anyplace in world’s oceans where surface waters can become dense enough to sink?
+  Only two places – North Atlantic Ocean and around Antarctica.
+
+AMOC = 
+Atlantic 
+Meridional
+Overturning
+Circulation
+
+This current, AMOC, transports heat to high latitiudes
+  Heat is released to the atmposhere as ocean water cools
+
+What if AMOC stops:
+  Heat no longer flows north (high latitudes)
+
+Historically cold periods have to do with weak AMOC. If AMOC becomes strong, the heat is deposited in higher latitudes and thus
+more warming
+
+AMOC turns on very quickly but takes a long time to slow down
+
+(Dumping fresh water in the north would just make the southern hemipshere warmer)
+
+Deepwater formations is sensitive to freshwater inputs
+
+if we are taking energy to warm the northern hemipshere, the energy must come somewhere
+  energy comes from the southern
+
+Friday March 3rd
+The past and future goals of global sea level:
+sea level rise: about 200mm (8 inches) since 1990
+
+1. Thermal expansion of water
+2. Melting of land-based ice
+
+  (Look how greenland and antartica are exponensially increasing, positive feedback loop!)
+
+  Since 1992: 3mm / year (1.2 inch/decade)
+
+  When did this rise begin:
+    Sea level rise in the Mid 19th century
+
+  GRACE - Gravity Recovery and Climate Experiement
+    - Distance between the two satellites very accurartely measured
+
+    - detect changes in earth gravitational pull
+
+    - can weigh the earth
+
+  Metling mass per year:
+    Greenland:
+      0.8 mm/year 
+    Antartica:
+      0.35mm/year
+
+    Calving front retreat of Greenland glaciers
+
+    Antartic Ice Mass Loss:
+      The west side is losing a lot more than east (east is even gaining ice!)
+
+    Using corals to reconsutrct sea level:
+      Certain types of coral only grow in upper few meteres of oceans
+
+      By dating coral reefs, we can reconstruct past sea level
+
+      Last interglcial: global sea level was 5 to 9 meters higher
+
+      Where did 6m of sea level come from:
+
+    Why west antartica:
+      bedrock is below sea level
+
+
+In 2016 the global average temperature was over 1oC warmer 
+than the 20th century average. This temperature is comparable to the 
+last interglacial. Why don’t we have 6 m sea level rise yet, like during 
+the last interglacial?
+
+  Too fast for the system to respond to this rapid warming, at some point we will probably see the same changes thousands of years
+  ago. We are not heating the ocean and land eqaully. We need to wait for the ocean to undergo thermal expansion still
+
+
+  Sea level responds SLOWLY to temperature
+
+  When warming stops, sea level will continue to rise because it is still rising in response to past warming
+
+
+MISSED LAST LECTURE FUCK ME
+
+Guest lecture Wednesday March 8th 2023:
+  IPCC (intergovernmental panel on climate change)
+
+  The IPCC is made up of the world's governments; it was established in 1988
+
+  Objective:
+    provide goernments at all levels with regular assessments of our understanding of climate change that they can use to..
+    They never tell governments what to do 
+
+  assessments are written every few years by scientists nominated by their governments and selected by IPCC to serve as coordinating 
+  lead authors or lead authors
+
+  "We are not doing the research, we are publishing the assessed literature"
+
+  assessments are organized into three working groups:
+    The physical science basis
+    impacts, adaptation, and vulnerability
+    Mitigation and...
+
+  Each assessment report has fed directly into international climate policy making
+
+  Article 2 of the UNFCCC treaty: 
+    aiming to achieve stablilization of greenhouse gas concentrations at a level that would prevent dangerous anthroprogenic interference with 
+    the climate system
+
+  TAR: focused oin the impats of climate change
+
+  AR4: Laid the groundwork for a post kyoto agreement, focused on limiting warming to 2C
+
+  1750: Beginning of the industrial revolution, and the beginning of large scale carbon emissions
+
+  ar5: provided the scientific input into the 2015 paris agreement to limit warming to below 2C
+
+  ar6 (2022): Stay tuned...
+
+  The IPPCC Process:
+    authors were selected 
+    had 5 meetings, where the authors will meet 6 days at a time and work together on each chapter
+
+    The final meeting: Plenary meeting where select authors would attend and present to 2 delegates a summary for policy makers
+    a summary for policy makers presents the most policy relevant information 
+
+Friday March 10th 2023:
+
+Guest Speaker Invited to author of Sixth IPCC
+
+Studies migration resulting from climate change and changes in habitability
+
+Worked on working group 2 (the impacts to people and ecosystems)
+
+Sectoral Chapters: Terrestrial and Freshwater ecosystems
+                   Oceana nd coastal ecosystems
+                   food systems and other key ecosystems
+
+                   1) Key terms
+                   2) 6 take-aways from the IPCC
+
+              Key Terms:
+                Exposure (To measure exposure we think of frequency, intensity, or magnitude)
+
+                Impact (adverse consequence of climate change)
+
+                Risk (Probability of an impact)
+
+                vulnerability (A specific community's propensity to experience harm)
+
+                Adaptation (adjustments that reduce risk and leverage potential benefits)
+
+                Resilience (Stability of a system, ability to maintain structures, functins and identity)
+
+          Take away #1:
+            Climate is a powerful influence on how we leave and what can survive
+              Beyond 1.5 - 2 Degrees Celsius is when DANGEROUS anthroprogenic impacts occur
+
+          Take away #2 
+           Even temporarily exceed 1.5 degrees C of warming will result in severe and often
+              irreversible impacts, especially in nature.
+
+          Take away #3
+            Human induced worldwide climate change is already affecting billons of peoples' lives and 
+            livelihoods, and the natural world
+
+
+          Levels of migration:
+            Local, internal, regional, global
+
+            Types:
+              Voluntary
+
+              Involuntary
+
+          Take away #4:
+            In the next 20 years, we will all face sybstantial increased risks from climate change, some more than others
+
+          Take away #5: 
+          The close connections between people, nature, and climate come in to even sharper focus when we look 
+          beyond 2040
+
+          Take away #6:
+            Through --climate resilient development-- we can tackle many of the biggest global challenges and threats at once 
+
+
+
+Changes the energy earth is receiving based on its orbit around the sun
+  (1) Eccentricity - Change in the shape of earth's orbits
+
+  (2) Obliquity - Change in tilts of Earth's axis
+    Energy is dependant on the distance from the source, and the surface area its hitting
+
+  (3) Precession - Change in orientation of Earth's axis
+      Precession and Eccentricity have to work together for earth's climate
+
+    Increase title "Extreme Seasons"
+
+    No tilt "no extremity in seasons"
+
+  Changing amount of energy on earth has an impact on all of earth's systems
+
+
+
+  Schematic of plate motion:
+  
+  Divergent plate boundary:
+    spreading
+    Midocean ridges: materials are forced upward
+    new crust is created
+
+  ....
+
+  ....
+
+  Long terms carbon cycle:
+    1. Chemical weathering
+      acidic rainwater dissolving minerals
+    2.  
+    3. volcanic degassing
+
+
+ice sheets: more positive 18 oxygen
+marine organisms: more negative 18 
